@@ -1,0 +1,162 @@
+---
+title: "ggrepel"
+format: html
+editor: visual
+---
+
+You can follow along with the `ggrepel.qmd` file in the **nicar-2023-fancier-viz** project folder that you downloaded in the [**First steps**](data_prep.html)link.
+
+If you've downloaded the appropriate data files and put them in a data folder, you can just copy and paste all the code in the gray boxes in an R script.
+
+This time, we're going to use a package called **ggrepel**.
+
+Let's load the libraries, import the state-level data and see the structure of the data we've imported.
+
+```{r loading}
+#| warning: FALSE
+#| message: FALSE
+
+library(tidyverse)
+library(ggrepel)
+
+state_df <- read_csv("data/opioids_states.csv")
+
+glimpse(state_df)
+```
+
+Before we proceed, let's slice out the 2006 data only.
+
+```{r}
+state_df_06 <-state_df %>% 
+  filter(year==2006) %>% 
+  pivot_wider(names_from="type", values_from="rate")
+
+glimpse(state_df_06)
+```
+
+Okay, we went from 918 rows of data to 51.
+
+Let's see if there's a relationship between rates of opioid purchases and opioid deaths in 2006.
+
+We'll plot it out with `geom_point()` from the ggplot2 package.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+
+
+ggplot(state_df_06, aes(x=death_per_1m, y=pills_per_person)) +
+  geom_point() +
+  geom_smooth(method='lm') +
+  theme_minimal()
+```
+
+Alright, so it definitely looks like there's something interesting here.
+
+But it'd be nice to be able to see right away which dots represent which states.
+
+The default method of showing text in ggplot2 is the function `geom_text()`.
+
+Let's try it below.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+
+ggplot(state_df_06, aes(x=death_per_1m, y=pills_per_person)) +
+  geom_point() +
+  geom_smooth(method='lm') +
+  geom_text(aes(label=buyer_state), size=3) +
+  theme_minimal()
+```
+
+Yuck, it pops up right where the dots appear. We need to move it over.
+
+You can pass it the argument `hjust` and change the number till it's just right.
+
+Try it with .5 pixels.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+
+ggplot(state_df_06, aes(x=death_per_1m, y=pills_per_person)) +
+  geom_point() +
+  geom_smooth(method='lm') +
+# Changing this line 
+# geom_text(aes(label=buyer_state), size=3) +
+  geom_text(aes(label=buyer_state), hjust=-.5, size=3) +
+  theme_minimal()
+```
+
+Hrm, still not great. Look at the two dots under "UT" -- "RNM"? What is that?
+
+Let's use the package **ggrepel** that members of the data community made that automatically moves text labels for you based on proximity of other labels.
+
+Instead of the function `geom_text()`, use the function `geom_text_repel().`
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+
+ggplot(state_df_06, aes(x=death_per_1m, y=pills_per_person)) +
+  geom_point() +
+  geom_smooth(method='lm') +
+# Changing this line 
+# geom_text(aes(label=buyer_state), hjust=-.5, size=3) +
+  geom_text_repel(aes(label=buyer_state), size=3) +
+  theme_minimal()
+```
+
+Beautiful! and so easy!
+
+Now, you can save it as a pdf or svg and tinker with it even more in Illustrator before publishing.
+
+Let me show you a way to show only the labels for outliers. Let's say those with more than 120 deaths per million. It requires some nested data wrangling.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+
+ggplot(state_df_06, aes(x=death_per_1m, y=pills_per_person)) +
+  geom_point() +
+  geom_smooth(method='lm') +
+# Changing this line
+# geom_text_repel(aes(label=buyer_state), size=3) +
+  geom_text_repel(data= . %>% 
+                  mutate(new_label=ifelse(death_per_1m>120,
+                                        buyer_state, "")),
+                  aes(label=new_label), size=3) +
+  theme_minimal()
+```
+
+A little complicated, but you just have to see it in action and you can repurpose it for what you need.
+
+Let's go back and put in all the years and see what the pattern is once we display the data in small multiples.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+#| fig.width: 9
+#| fig.height: 20
+#| 
+state_df_wide <-state_df %>% 
+  #filter(year==2006) %>% 
+  pivot_wider(names_from="type", values_from="rate")
+
+ggplot(state_df_wide, aes(x=death_per_1m, y=pills_per_person)) +
+  geom_point() +
+  geom_text_repel(data= . %>% 
+                  mutate(new_label=ifelse(death_per_1m>120,
+                                        buyer_state, "")),
+                  aes(label=new_label), size=3) +
+# new line below
+  facet_wrap(~year, ncol=2) +
+  theme_minimal()
+```
+
+It's very illuminating to compare 2006 to 2014.
+
+That could make for an interesting GIF, right?
+
+Let's move on to [**gganimate**](gganimate.html).

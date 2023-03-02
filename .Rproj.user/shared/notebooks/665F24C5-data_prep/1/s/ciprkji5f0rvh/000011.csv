@@ -1,0 +1,23 @@
+"0","# first have to bring in accurate population counts for counties annually"
+"0","county_pops <- county_population(key = ""WaPo"") %>% "
+"0","  select(countyfips, year, population)"
+"0",""
+"0","county_joined <- county_joined %>% "
+"0","  select(-population) %>% "
+"0","  left_join(county_pops) %>% "
+"0","  mutate(pills_per_person=round(dosage_unit/population,1)) %>% "
+"0","  mutate(death_per_100k=round(deaths/population*100000,1)) %>% "
+"0"," # rename(death_rate=crude_rate) %>% "
+"0","  pivot_longer(cols=c(""death_per_100k"", ""pills_per_person""),"
+"0","               names_to=""type"","
+"0","               values_to=""rate"")"
+"2","Joining with `by = join_by(year, countyfips)`"
+"0","county_joined <- left_join(county_joined, regions)"
+"1","[1m[33mError[39m in `auto_copy()`:[22m
+[38;5;232m[33m![38;5;232m `x` and `y` must share the same src.
+[36mℹ[38;5;232m set `copy` = TRUE (may be slow).[39m
+Backtrace:
+[90m 1. [39m[1mdplyr[22m::left_join(county_joined, regions)
+[90m 2. [39mdplyr:::left_join.data.frame(county_joined, regions)
+[90m 3. [39m[1m[94mdplyr::auto_copy([39m[22mx, y, copy = copy[1m[94m)[39m[22m
+"

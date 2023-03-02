@@ -1,0 +1,2 @@
+"0","us_counties <- us_counties %>% "
+"0","  left_join(bi_df, by=c(""GEOID""=""countyfips""))"

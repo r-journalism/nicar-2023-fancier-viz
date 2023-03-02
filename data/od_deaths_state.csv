@@ -1,0 +1,590 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2006"	"2006"	124	4628981	2.7
+	"Alabama"	"01"	"2007"	"2007"	165	4672840	3.5
+	"Alabama"	"01"	"2008"	"2008"	185	4718206	3.9
+	"Alabama"	"01"	"2009"	"2009"	206	4757938	4.3
+	"Alabama"	"01"	"2010"	"2010"	187	4779736	3.9
+	"Alabama"	"01"	"2011"	"2011"	176	4802740	3.7
+	"Alabama"	"01"	"2012"	"2012"	165	4822023	3.4
+	"Alabama"	"01"	"2013"	"2013"	166	4833722	3.4
+	"Alabama"	"01"	"2014"	"2014"	270	4849377	5.6
+"Total"	"Alabama"	"01"			1644	42865563	3.8
+	"Alaska"	"02"	"2006"	"2006"	29	675302	4.3
+	"Alaska"	"02"	"2007"	"2007"	15	680300	Unreliable
+	"Alaska"	"02"	"2008"	"2008"	88	687455	12.8
+	"Alaska"	"02"	"2009"	"2009"	90	698895	12.9
+	"Alaska"	"02"	"2010"	"2010"	62	710231	8.7
+	"Alaska"	"02"	"2011"	"2011"	66	722718	9.1
+	"Alaska"	"02"	"2012"	"2012"	81	731449	11.1
+	"Alaska"	"02"	"2013"	"2013"	69	735132	9.4
+	"Alaska"	"02"	"2014"	"2014"	76	736732	10.3
+"Total"	"Alaska"	"02"			576	6378214	9.0
+	"Arizona"	"04"	"2006"	"2006"	459	6029141	7.6
+	"Arizona"	"04"	"2007"	"2007"	461	6167681	7.5
+	"Arizona"	"04"	"2008"	"2008"	494	6280362	7.9
+	"Arizona"	"04"	"2009"	"2009"	605	6343154	9.5
+	"Arizona"	"04"	"2010"	"2010"	626	6392017	9.8
+	"Arizona"	"04"	"2011"	"2011"	562	6482505	8.7
+	"Arizona"	"04"	"2012"	"2012"	526	6553255	8.0
+	"Arizona"	"04"	"2013"	"2013"	527	6626624	8.0
+	"Arizona"	"04"	"2014"	"2014"	589	6731484	8.7
+"Total"	"Arizona"	"04"			4849	57606223	8.4
+	"Arkansas"	"05"	"2006"	"2006"	140	2821761	5.0
+	"Arkansas"	"05"	"2007"	"2007"	148	2848650	5.2
+	"Arkansas"	"05"	"2008"	"2008"	197	2874554	6.9
+	"Arkansas"	"05"	"2009"	"2009"	201	2896843	6.9
+	"Arkansas"	"05"	"2010"	"2010"	189	2915918	6.5
+	"Arkansas"	"05"	"2011"	"2011"	169	2937979	5.8
+	"Arkansas"	"05"	"2012"	"2012"	169	2949131	5.7
+	"Arkansas"	"05"	"2013"	"2013"	162	2959373	5.5
+	"Arkansas"	"05"	"2014"	"2014"	173	2966369	5.8
+"Total"	"Arkansas"	"05"			1548	26170578	5.9
+	"California"	"06"	"2006"	"2006"	1511	36021202	4.2
+	"California"	"06"	"2007"	"2007"	1657	36250311	4.6
+	"California"	"06"	"2008"	"2008"	1801	36604337	4.9
+	"California"	"06"	"2009"	"2009"	1987	36961229	5.4
+	"California"	"06"	"2010"	"2010"	1929	37253956	5.2
+	"California"	"06"	"2011"	"2011"	1938	37691912	5.1
+	"California"	"06"	"2012"	"2012"	1719	38041430	4.5
+	"California"	"06"	"2013"	"2013"	1948	38332521	5.1
+	"California"	"06"	"2014"	"2014"	2024	38802500	5.2
+"Total"	"California"	"06"			16514	335959398	4.9
+	"Colorado"	"08"	"2006"	"2006"	326	4720423	6.9
+	"Colorado"	"08"	"2007"	"2007"	353	4803868	7.3
+	"Colorado"	"08"	"2008"	"2008"	355	4889730	7.3
+	"Colorado"	"08"	"2009"	"2009"	397	4972195	8.0
+	"Colorado"	"08"	"2010"	"2010"	304	5029196	6.0
+	"Colorado"	"08"	"2011"	"2011"	418	5116796	8.2
+	"Colorado"	"08"	"2012"	"2012"	407	5187582	7.8
+	"Colorado"	"08"	"2013"	"2013"	433	5268367	8.2
+	"Colorado"	"08"	"2014"	"2014"	517	5355866	9.7
+"Total"	"Colorado"	"08"			3510	45344023	7.7
+	"Connecticut"	"09"	"2006"	"2006"	224	3517460	6.4
+	"Connecticut"	"09"	"2007"	"2007"	244	3527270	6.9
+	"Connecticut"	"09"	"2008"	"2008"	230	3545579	6.5
+	"Connecticut"	"09"	"2009"	"2009"	216	3561807	6.1
+	"Connecticut"	"09"	"2010"	"2010"	223	3574097	6.2
+	"Connecticut"	"09"	"2011"	"2011"	209	3580709	5.8
+	"Connecticut"	"09"	"2012"	"2012"	201	3590347	5.6
+	"Connecticut"	"09"	"2013"	"2013"	439	3596080	12.2
+	"Connecticut"	"09"	"2014"	"2014"	525	3596677	14.6
+"Total"	"Connecticut"	"09"			2511	32090026	7.8
+	"Delaware"	"10"	"2006"	"2006"	37	859268	4.3
+	"Delaware"	"10"	"2007"	"2007"	45	871749	5.2
+	"Delaware"	"10"	"2008"	"2008"	65	883874	7.4
+	"Delaware"	"10"	"2009"	"2009"	81	891730	9.1
+	"Delaware"	"10"	"2010"	"2010"	103	897934	11.5
+	"Delaware"	"10"	"2011"	"2011"	113	907135	12.5
+	"Delaware"	"10"	"2012"	"2012"	82	917092	8.9
+	"Delaware"	"10"	"2013"	"2013"	113	925749	12.2
+	"Delaware"	"10"	"2014"	"2014"	124	935614	13.3
+"Total"	"Delaware"	"10"			763	8090145	9.4
+	"District of Columbia"	"11"	"2006"	"2006"	55	570681	9.6
+	"District of Columbia"	"11"	"2007"	"2007"	29	574404	5.0
+	"District of Columbia"	"11"	"2008"	"2008"	31	580236	5.3
+	"District of Columbia"	"11"	"2009"	"2009"	13	592228	Unreliable
+	"District of Columbia"	"11"	"2010"	"2010"	34	601723	5.7
+	"District of Columbia"	"11"	"2011"	"2011"	51	617996	8.3
+	"District of Columbia"	"11"	"2012"	"2012"	44	632323	7.0
+	"District of Columbia"	"11"	"2013"	"2013"	60	646449	9.3
+	"District of Columbia"	"11"	"2014"	"2014"	63	658893	9.6
+"Total"	"District of Columbia"	"11"			380	5474933	6.9
+	"Florida"	"12"	"2006"	"2006"	1223	18166990	6.7
+	"Florida"	"12"	"2007"	"2007"	1473	18367842	8.0
+	"Florida"	"12"	"2008"	"2008"	1478	18527305	8.0
+	"Florida"	"12"	"2009"	"2009"	1590	18652644	8.5
+	"Florida"	"12"	"2010"	"2010"	1674	18801310	8.9
+	"Florida"	"12"	"2011"	"2011"	1576	19057542	8.3
+	"Florida"	"12"	"2012"	"2012"	1326	19317568	6.9
+	"Florida"	"12"	"2013"	"2013"	1268	19552860	6.5
+	"Florida"	"12"	"2014"	"2014"	1399	19893297	7.0
+"Total"	"Florida"	"12"			13007	170337358	7.6
+	"Georgia"	"13"	"2006"	"2006"	331	9155813	3.6
+	"Georgia"	"13"	"2007"	"2007"	385	9349988	4.1
+	"Georgia"	"13"	"2008"	"2008"	404	9504843	4.3
+	"Georgia"	"13"	"2009"	"2009"	490	9620846	5.1
+	"Georgia"	"13"	"2010"	"2010"	534	9687653	5.5
+	"Georgia"	"13"	"2011"	"2011"	535	9815210	5.5
+	"Georgia"	"13"	"2012"	"2012"	536	9919945	5.4
+	"Georgia"	"13"	"2013"	"2013"	530	9992167	5.3
+	"Georgia"	"13"	"2014"	"2014"	710	10097343	7.0
+"Total"	"Georgia"	"13"			4455	87143808	5.1
+	"Hawaii"	"15"	"2006"	"2006"	54	1309731	4.1
+	"Hawaii"	"15"	"2007"	"2007"	78	1315675	5.9
+	"Hawaii"	"15"	"2008"	"2008"	53	1332213	4.0
+	"Hawaii"	"15"	"2009"	"2009"	57	1346717	4.2
+	"Hawaii"	"15"	"2010"	"2010"	74	1360301	5.4
+	"Hawaii"	"15"	"2011"	"2011"	77	1374810	5.6
+	"Hawaii"	"15"	"2012"	"2012"	62	1392313	4.5
+	"Hawaii"	"15"	"2013"	"2013"	69	1404054	4.9
+	"Hawaii"	"15"	"2014"	"2014"	59	1419561	4.2
+"Total"	"Hawaii"	"15"			583	12255375	4.8
+	"Idaho"	"16"	"2006"	"2006"	70	1468669	4.8
+	"Idaho"	"16"	"2007"	"2007"	62	1505105	4.1
+	"Idaho"	"16"	"2008"	"2008"	72	1534320	4.7
+	"Idaho"	"16"	"2009"	"2009"	62	1554439	4.0
+	"Idaho"	"16"	"2010"	"2010"	79	1567582	5.0
+	"Idaho"	"16"	"2011"	"2011"	77	1584985	4.9
+	"Idaho"	"16"	"2012"	"2012"	59	1595728	3.7
+	"Idaho"	"16"	"2013"	"2013"	77	1612136	4.8
+	"Idaho"	"16"	"2014"	"2014"	78	1634464	4.8
+"Total"	"Idaho"	"16"			636	14057428	4.5
+	"Illinois"	"17"	"2006"	"2006"	870	12643955	6.9
+	"Illinois"	"17"	"2007"	"2007"	691	12695866	5.4
+	"Illinois"	"17"	"2008"	"2008"	846	12747038	6.6
+	"Illinois"	"17"	"2009"	"2009"	886	12796778	6.9
+	"Illinois"	"17"	"2010"	"2010"	867	12830632	6.8
+	"Illinois"	"17"	"2011"	"2011"	907	12869257	7.0
+	"Illinois"	"17"	"2012"	"2012"	1151	12875255	8.9
+	"Illinois"	"17"	"2013"	"2013"	1072	12882135	8.3
+	"Illinois"	"17"	"2014"	"2014"	1205	12880580	9.4
+"Total"	"Illinois"	"17"			8495	115221496	7.4
+	"Indiana"	"18"	"2006"	"2006"	176	6332669	2.8
+	"Indiana"	"18"	"2007"	"2007"	241	6379599	3.8
+	"Indiana"	"18"	"2008"	"2008"	311	6424806	4.8
+	"Indiana"	"18"	"2009"	"2009"	319	6459325	4.9
+	"Indiana"	"18"	"2010"	"2010"	289	6483802	4.5
+	"Indiana"	"18"	"2011"	"2011"	356	6516922	5.5
+	"Indiana"	"18"	"2012"	"2012"	375	6537334	5.7
+	"Indiana"	"18"	"2013"	"2013"	360	6570902	5.5
+	"Indiana"	"18"	"2014"	"2014"	462	6596855	7.0
+"Total"	"Indiana"	"18"			2889	58302214	5.0
+	"Iowa"	"19"	"2006"	"2006"	93	2982644	3.1
+	"Iowa"	"19"	"2007"	"2007"	107	2999212	3.6
+	"Iowa"	"19"	"2008"	"2008"	127	3016734	4.2
+	"Iowa"	"19"	"2009"	"2009"	141	3032870	4.6
+	"Iowa"	"19"	"2010"	"2010"	147	3046355	4.8
+	"Iowa"	"19"	"2011"	"2011"	172	3062309	5.6
+	"Iowa"	"19"	"2012"	"2012"	171	3074186	5.6
+	"Iowa"	"19"	"2013"	"2013"	179	3090416	5.8
+	"Iowa"	"19"	"2014"	"2014"	158	3107126	5.1
+"Total"	"Iowa"	"19"			1295	27411852	4.7
+	"Kansas"	"20"	"2006"	"2006"	120	2762931	4.3
+	"Kansas"	"20"	"2007"	"2007"	117	2783785	4.2
+	"Kansas"	"20"	"2008"	"2008"	96	2808076	3.4
+	"Kansas"	"20"	"2009"	"2009"	148	2832704	5.2
+	"Kansas"	"20"	"2010"	"2010"	104	2853118	3.6
+	"Kansas"	"20"	"2011"	"2011"	118	2871238	4.1
+	"Kansas"	"20"	"2012"	"2012"	171	2885905	5.9
+	"Kansas"	"20"	"2013"	"2013"	158	2893957	5.5
+	"Kansas"	"20"	"2014"	"2014"	173	2904021	6.0
+"Total"	"Kansas"	"20"			1205	25595735	4.7
+	"Kentucky"	"21"	"2006"	"2006"	331	4219239	7.8
+	"Kentucky"	"21"	"2007"	"2007"	343	4256672	8.1
+	"Kentucky"	"21"	"2008"	"2008"	365	4289878	8.5
+	"Kentucky"	"21"	"2009"	"2009"	434	4317074	10.1
+	"Kentucky"	"21"	"2010"	"2010"	591	4339367	13.6
+	"Kentucky"	"21"	"2011"	"2011"	669	4369356	15.3
+	"Kentucky"	"21"	"2012"	"2012"	673	4380415	15.4
+	"Kentucky"	"21"	"2013"	"2013"	665	4395295	15.1
+	"Kentucky"	"21"	"2014"	"2014"	729	4413457	16.5
+"Total"	"Kentucky"	"21"			4800	38980753	12.3
+	"Louisiana"	"22"	"2006"	"2006"	194	4302665	4.5
+	"Louisiana"	"22"	"2007"	"2007"	212	4375581	4.8
+	"Louisiana"	"22"	"2008"	"2008"	130	4435586	2.9
+	"Louisiana"	"22"	"2009"	"2009"	122	4491648	2.7
+	"Louisiana"	"22"	"2010"	"2010"	123	4533372	2.7
+	"Louisiana"	"22"	"2011"	"2011"	116	4574836	2.5
+	"Louisiana"	"22"	"2012"	"2012"	169	4601893	3.7
+	"Louisiana"	"22"	"2013"	"2013"	265	4625470	5.7
+	"Louisiana"	"22"	"2014"	"2014"	260	4649676	5.6
+"Total"	"Louisiana"	"22"			1591	40590727	3.9
+	"Maine"	"23"	"2006"	"2006"	93	1323619	7.0
+	"Maine"	"23"	"2007"	"2007"	102	1327040	7.7
+	"Maine"	"23"	"2008"	"2008"	105	1330509	7.9
+	"Maine"	"23"	"2009"	"2009"	114	1329590	8.6
+	"Maine"	"23"	"2010"	"2010"	90	1328361	6.8
+	"Maine"	"23"	"2011"	"2011"	85	1328188	6.4
+	"Maine"	"23"	"2012"	"2012"	100	1329192	7.5
+	"Maine"	"23"	"2013"	"2013"	125	1328302	9.4
+	"Maine"	"23"	"2014"	"2014"	171	1330089	12.9
+"Total"	"Maine"	"23"			985	11954890	8.2
+	"Maryland"	"24"	"2006"	"2006"	565	5627367	10.0
+	"Maryland"	"24"	"2007"	"2007"	600	5653408	10.6
+	"Maryland"	"24"	"2008"	"2008"	513	5684965	9.0
+	"Maryland"	"24"	"2009"	"2009"	586	5730388	10.2
+	"Maryland"	"24"	"2010"	"2010"	509	5773552	8.8
+	"Maryland"	"24"	"2011"	"2011"	546	5828289	9.4
+	"Maryland"	"24"	"2012"	"2012"	657	5884563	11.2
+	"Maryland"	"24"	"2013"	"2013"	749	5928814	12.6
+	"Maryland"	"24"	"2014"	"2014"	921	5976407	15.4
+"Total"	"Maryland"	"24"			5646	52087753	10.8
+	"Massachusetts"	"25"	"2006"	"2006"	659	6410084	10.3
+	"Massachusetts"	"25"	"2007"	"2007"	649	6431559	10.1
+	"Massachusetts"	"25"	"2008"	"2008"	596	6468967	9.2
+	"Massachusetts"	"25"	"2009"	"2009"	622	6517613	9.5
+	"Massachusetts"	"25"	"2010"	"2010"	549	6547629	8.4
+	"Massachusetts"	"25"	"2011"	"2011"	655	6587536	9.9
+	"Massachusetts"	"25"	"2012"	"2012"	691	6646144	10.4
+	"Massachusetts"	"25"	"2013"	"2013"	888	6692824	13.3
+	"Massachusetts"	"25"	"2014"	"2014"	1140	6745408	16.9
+"Total"	"Massachusetts"	"25"			6449	59047764	10.9
+	"Michigan"	"26"	"2006"	"2006"	594	10036081	5.9
+	"Michigan"	"26"	"2007"	"2007"	506	10001284	5.1
+	"Michigan"	"26"	"2008"	"2008"	643	9946889	6.5
+	"Michigan"	"26"	"2009"	"2009"	736	9901591	7.4
+	"Michigan"	"26"	"2010"	"2010"	695	9883640	7.0
+	"Michigan"	"26"	"2011"	"2011"	714	9876187	7.2
+	"Michigan"	"26"	"2012"	"2012"	685	9883360	6.9
+	"Michigan"	"26"	"2013"	"2013"	909	9895622	9.2
+	"Michigan"	"26"	"2014"	"2014"	1052	9909877	10.6
+"Total"	"Michigan"	"26"			6534	89334531	7.3
+	"Minnesota"	"27"	"2006"	"2006"	158	5163555	3.1
+	"Minnesota"	"27"	"2007"	"2007"	180	5207203	3.5
+	"Minnesota"	"27"	"2008"	"2008"	227	5247018	4.3
+	"Minnesota"	"27"	"2009"	"2009"	272	5281203	5.2
+	"Minnesota"	"27"	"2010"	"2010"	235	5303925	4.4
+	"Minnesota"	"27"	"2011"	"2011"	286	5344861	5.4
+	"Minnesota"	"27"	"2012"	"2012"	290	5379139	5.4
+	"Minnesota"	"27"	"2013"	"2013"	305	5420380	5.6
+	"Minnesota"	"27"	"2014"	"2014"	318	5457173	5.8
+"Total"	"Minnesota"	"27"			2271	47804457	4.8
+	"Mississippi"	"28"	"2006"	"2006"	65	2904978	2.2
+	"Mississippi"	"28"	"2007"	"2007"	95	2928350	3.2
+	"Mississippi"	"28"	"2008"	"2008"	106	2947806	3.6
+	"Mississippi"	"28"	"2009"	"2009"	96	2958774	3.2
+	"Mississippi"	"28"	"2010"	"2010"	100	2967297	3.4
+	"Mississippi"	"28"	"2011"	"2011"	79	2978512	2.7
+	"Mississippi"	"28"	"2012"	"2012"	111	2984926	3.7
+	"Mississippi"	"28"	"2013"	"2013"	100	2991207	3.3
+	"Mississippi"	"28"	"2014"	"2014"	115	2994079	3.8
+"Total"	"Mississippi"	"28"			867	26655929	3.3
+	"Missouri"	"29"	"2006"	"2006"	403	5842704	6.9
+	"Missouri"	"29"	"2007"	"2007"	390	5887612	6.6
+	"Missouri"	"29"	"2008"	"2008"	475	5923916	8.0
+	"Missouri"	"29"	"2009"	"2009"	526	5961088	8.8
+	"Missouri"	"29"	"2010"	"2010"	599	5988927	10.0
+	"Missouri"	"29"	"2011"	"2011"	595	6010688	9.9
+	"Missouri"	"29"	"2012"	"2012"	539	6021988	9.0
+	"Missouri"	"29"	"2013"	"2013"	620	6044171	10.3
+	"Missouri"	"29"	"2014"	"2014"	696	6063589	11.5
+"Total"	"Missouri"	"29"			4843	53744683	9.0
+	"Montana"	"30"	"2006"	"2006"	47	952692	4.9
+	"Montana"	"30"	"2007"	"2007"	62	964706	6.4
+	"Montana"	"30"	"2008"	"2008"	70	976415	7.2
+	"Montana"	"30"	"2009"	"2009"	89	983982	9.0
+	"Montana"	"30"	"2010"	"2010"	54	989415	5.5
+	"Montana"	"30"	"2011"	"2011"	63	998199	6.3
+	"Montana"	"30"	"2012"	"2012"	51	1005141	5.1
+	"Montana"	"30"	"2013"	"2013"	67	1015165	6.6
+	"Montana"	"30"	"2014"	"2014"	53	1023579	5.2
+"Total"	"Montana"	"30"			556	8909294	6.2
+	"Nebraska"	"31"	"2006"	"2006"	34	1772693	1.9
+	"Nebraska"	"31"	"2007"	"2007"	39	1783440	2.2
+	"Nebraska"	"31"	"2008"	"2008"	29	1796378	1.6
+	"Nebraska"	"31"	"2009"	"2009"	66	1812683	3.6
+	"Nebraska"	"31"	"2010"	"2010"	58	1826341	3.2
+	"Nebraska"	"31"	"2011"	"2011"	53	1842641	2.9
+	"Nebraska"	"31"	"2012"	"2012"	53	1855525	2.9
+	"Nebraska"	"31"	"2013"	"2013"	41	1868516	2.2
+	"Nebraska"	"31"	"2014"	"2014"	56	1881503	3.0
+"Total"	"Nebraska"	"31"			429	16439720	2.6
+	"Nevada"	"32"	"2006"	"2006"	343	2522658	13.6
+	"Nevada"	"32"	"2007"	"2007"	376	2601072	14.5
+	"Nevada"	"32"	"2008"	"2008"	397	2653630	15.0
+	"Nevada"	"32"	"2009"	"2009"	439	2684665	16.4
+	"Nevada"	"32"	"2010"	"2010"	439	2700551	16.3
+	"Nevada"	"32"	"2011"	"2011"	461	2723322	16.9
+	"Nevada"	"32"	"2012"	"2012"	446	2758931	16.2
+	"Nevada"	"32"	"2013"	"2013"	398	2790136	14.3
+	"Nevada"	"32"	"2014"	"2014"	375	2839099	13.2
+"Total"	"Nevada"	"32"			3674	24274064	15.1
+	"New Hampshire"	"33"	"2006"	"2006"	104	1308389	7.9
+	"New Hampshire"	"33"	"2007"	"2007"	145	1312540	11.0
+	"New Hampshire"	"33"	"2008"	"2008"	94	1315906	7.1
+	"New Hampshire"	"33"	"2009"	"2009"	126	1316102	9.6
+	"New Hampshire"	"33"	"2010"	"2010"	116	1316470	8.8
+	"New Hampshire"	"33"	"2011"	"2011"	154	1318194	11.7
+	"New Hampshire"	"33"	"2012"	"2012"	133	1320718	10.1
+	"New Hampshire"	"33"	"2013"	"2013"	157	1323459	11.9
+	"New Hampshire"	"33"	"2014"	"2014"	297	1326813	22.4
+"Total"	"New Hampshire"	"33"			1326	11858591	11.2
+	"New Jersey"	"34"	"2006"	"2006"	372	8661679	4.3
+	"New Jersey"	"34"	"2007"	"2007"	339	8677885	3.9
+	"New Jersey"	"34"	"2008"	"2008"	331	8711090	3.8
+	"New Jersey"	"34"	"2009"	"2009"	55	8755602	0.6
+	"New Jersey"	"34"	"2010"	"2010"	373	8791894	4.2
+	"New Jersey"	"34"	"2011"	"2011"	454	8821155	5.1
+	"New Jersey"	"34"	"2012"	"2012"	602	8864590	6.8
+	"New Jersey"	"34"	"2013"	"2013"	675	8899339	7.6
+	"New Jersey"	"34"	"2014"	"2014"	728	8938175	8.1
+"Total"	"New Jersey"	"34"			3929	79121409	5.0
+	"New Mexico"	"35"	"2006"	"2006"	243	1962137	12.4
+	"New Mexico"	"35"	"2007"	"2007"	266	1990070	13.4
+	"New Mexico"	"35"	"2008"	"2008"	324	2010662	16.1
+	"New Mexico"	"35"	"2009"	"2009"	200	2036802	9.8
+	"New Mexico"	"35"	"2010"	"2010"	191	2059179	9.3
+	"New Mexico"	"35"	"2011"	"2011"	243	2082224	11.7
+	"New Mexico"	"35"	"2012"	"2012"	319	2085538	15.3
+	"New Mexico"	"35"	"2013"	"2013"	322	2085287	15.4
+	"New Mexico"	"35"	"2014"	"2014"	402	2085572	19.3
+"Total"	"New Mexico"	"35"			2510	18397471	13.6
+	"New York"	"36"	"2006"	"2006"	1010	19104631	5.3
+	"New York"	"36"	"2007"	"2007"	1029	19132335	5.4
+	"New York"	"36"	"2008"	"2008"	1116	19212436	5.8
+	"New York"	"36"	"2009"	"2009"	1058	19307066	5.5
+	"New York"	"36"	"2010"	"2010"	1074	19378102	5.5
+	"New York"	"36"	"2011"	"2011"	1356	19465197	7.0
+	"New York"	"36"	"2012"	"2012"	1530	19570261	7.8
+	"New York"	"36"	"2013"	"2013"	1681	19651127	8.6
+	"New York"	"36"	"2014"	"2014"	1739	19746227	8.8
+"Total"	"New York"	"36"			11593	174567382	6.6
+	"North Carolina"	"37"	"2006"	"2006"	696	8917270	7.8
+	"North Carolina"	"37"	"2007"	"2007"	750	9118037	8.2
+	"North Carolina"	"37"	"2008"	"2008"	846	9309449	9.1
+	"North Carolina"	"37"	"2009"	"2009"	857	9449566	9.1
+	"North Carolina"	"37"	"2010"	"2010"	776	9535483	8.1
+	"North Carolina"	"37"	"2011"	"2011"	822	9656401	8.5
+	"North Carolina"	"37"	"2012"	"2012"	833	9752073	8.5
+	"North Carolina"	"37"	"2013"	"2013"	834	9848060	8.5
+	"North Carolina"	"37"	"2014"	"2014"	967	9943964	9.7
+"Total"	"North Carolina"	"37"			7381	85530303	8.6
+	"North Dakota"	"38"	"2007"	"2007"	17	652822	Unreliable
+	"North Dakota"	"38"	"2008"	"2008"	32	657569	4.9
+	"North Dakota"	"38"	"2009"	"2009"	17	664968	Unreliable
+	"North Dakota"	"38"	"2010"	"2010"	18	672591	Unreliable
+	"North Dakota"	"38"	"2011"	"2011"	10	683932	Unreliable
+	"North Dakota"	"38"	"2013"	"2013"	11	723393	Unreliable
+	"North Dakota"	"38"	"2014"	"2014"	31	739482	4.2
+"Total"	"North Dakota"	"38"			149	6143807	2.4
+	"Ohio"	"39"	"2006"	"2006"	634	11481213	5.5
+	"Ohio"	"39"	"2007"	"2007"	705	11500468	6.1
+	"Ohio"	"39"	"2008"	"2008"	814	11515391	7.1
+	"Ohio"	"39"	"2009"	"2009"	664	11528896	5.8
+	"Ohio"	"39"	"2010"	"2010"	1124	11536504	9.7
+	"Ohio"	"39"	"2011"	"2011"	1272	11544951	11.0
+	"Ohio"	"39"	"2012"	"2012"	1355	11544225	11.7
+	"Ohio"	"39"	"2013"	"2013"	1630	11570808	14.1
+	"Ohio"	"39"	"2014"	"2014"	2106	11594163	18.2
+"Total"	"Ohio"	"39"			10304	103816619	9.9
+	"Oklahoma"	"40"	"2006"	"2006"	383	3594090	10.7
+	"Oklahoma"	"40"	"2007"	"2007"	492	3634349	13.5
+	"Oklahoma"	"40"	"2008"	"2008"	410	3668976	11.2
+	"Oklahoma"	"40"	"2009"	"2009"	568	3717572	15.3
+	"Oklahoma"	"40"	"2010"	"2010"	510	3751351	13.6
+	"Oklahoma"	"40"	"2011"	"2011"	483	3791508	12.7
+	"Oklahoma"	"40"	"2012"	"2012"	531	3814820	13.9
+	"Oklahoma"	"40"	"2013"	"2013"	511	3850568	13.3
+	"Oklahoma"	"40"	"2014"	"2014"	502	3878051	12.9
+"Total"	"Oklahoma"	"40"			4390	33701285	13.0
+	"Oregon"	"41"	"2006"	"2006"	359	3670883	9.8
+	"Oregon"	"41"	"2007"	"2007"	358	3722417	9.6
+	"Oregon"	"41"	"2008"	"2008"	342	3768748	9.1
+	"Oregon"	"41"	"2009"	"2009"	368	3808600	9.7
+	"Oregon"	"41"	"2010"	"2010"	332	3831074	8.7
+	"Oregon"	"41"	"2011"	"2011"	392	3871859	10.1
+	"Oregon"	"41"	"2012"	"2012"	361	3899353	9.3
+	"Oregon"	"41"	"2013"	"2013"	301	3930065	7.7
+	"Oregon"	"41"	"2014"	"2014"	340	3970239	8.6
+"Total"	"Oregon"	"41"			3153	34473238	9.1
+	"Pennsylvania"	"42"	"2006"	"2006"	418	12510809	3.3
+	"Pennsylvania"	"42"	"2007"	"2007"	492	12563937	3.9
+	"Pennsylvania"	"42"	"2008"	"2008"	611	12612285	4.8
+	"Pennsylvania"	"42"	"2009"	"2009"	637	12666858	5.0
+	"Pennsylvania"	"42"	"2010"	"2010"	629	12702379	5.0
+	"Pennsylvania"	"42"	"2011"	"2011"	752	12742886	5.9
+	"Pennsylvania"	"42"	"2012"	"2012"	827	12763536	6.5
+	"Pennsylvania"	"42"	"2013"	"2013"	958	12773801	7.5
+	"Pennsylvania"	"42"	"2014"	"2014"	1092	12787209	8.5
+"Total"	"Pennsylvania"	"42"			6416	114123700	5.6
+	"Rhode Island"	"44"	"2006"	"2006"	130	1063096	12.2
+	"Rhode Island"	"44"	"2007"	"2007"	87	1057315	8.2
+	"Rhode Island"	"44"	"2008"	"2008"	133	1055003	12.6
+	"Rhode Island"	"44"	"2009"	"2009"	115	1053646	10.9
+	"Rhode Island"	"44"	"2010"	"2010"	111	1052567	10.5
+	"Rhode Island"	"44"	"2011"	"2011"	142	1051302	13.5
+	"Rhode Island"	"44"	"2012"	"2012"	140	1050292	13.3
+	"Rhode Island"	"44"	"2013"	"2013"	190	1051511	18.1
+	"Rhode Island"	"44"	"2014"	"2014"	205	1055173	19.4
+"Total"	"Rhode Island"	"44"			1253	9489905	13.2
+	"South Carolina"	"45"	"2006"	"2006"	214	4357847	4.9
+	"South Carolina"	"45"	"2007"	"2007"	199	4444110	4.5
+	"South Carolina"	"45"	"2008"	"2008"	218	4528996	4.8
+	"South Carolina"	"45"	"2009"	"2009"	238	4589872	5.2
+	"South Carolina"	"45"	"2010"	"2010"	271	4625364	5.9
+	"South Carolina"	"45"	"2011"	"2011"	243	4679230	5.2
+	"South Carolina"	"45"	"2012"	"2012"	237	4723723	5.0
+	"South Carolina"	"45"	"2013"	"2013"	247	4774839	5.2
+	"South Carolina"	"45"	"2014"	"2014"	515	4832482	10.7
+"Total"	"South Carolina"	"45"			2382	41556463	5.7
+	"South Dakota"	"46"	"2006"	"2006"	23	783033	2.9
+	"South Dakota"	"46"	"2007"	"2007"	20	791623	2.5
+	"South Dakota"	"46"	"2008"	"2008"	31	799124	3.9
+	"South Dakota"	"46"	"2009"	"2009"	35	807067	4.3
+	"South Dakota"	"46"	"2010"	"2010"	32	814180	3.9
+	"South Dakota"	"46"	"2011"	"2011"	34	824082	4.1
+	"South Dakota"	"46"	"2012"	"2012"	24	833354	2.9
+	"South Dakota"	"46"	"2013"	"2013"	34	844877	4.0
+	"South Dakota"	"46"	"2014"	"2014"	33	853175	3.9
+"Total"	"South Dakota"	"46"			266	7350515	3.6
+	"Tennessee"	"47"	"2006"	"2006"	470	6088766	7.7
+	"Tennessee"	"47"	"2007"	"2007"	479	6175727	7.8
+	"Tennessee"	"47"	"2008"	"2008"	480	6247411	7.7
+	"Tennessee"	"47"	"2009"	"2009"	535	6306019	8.5
+	"Tennessee"	"47"	"2010"	"2010"	633	6346105	10.0
+	"Tennessee"	"47"	"2011"	"2011"	633	6403353	9.9
+	"Tennessee"	"47"	"2012"	"2012"	723	6456243	11.2
+	"Tennessee"	"47"	"2013"	"2013"	767	6495978	11.8
+	"Tennessee"	"47"	"2014"	"2014"	863	6549352	13.2
+"Total"	"Tennessee"	"47"			5583	57068954	9.8
+	"Texas"	"48"	"2006"	"2006"	1067	23359580	4.6
+	"Texas"	"48"	"2007"	"2007"	1021	23831983	4.3
+	"Texas"	"48"	"2008"	"2008"	944	24309039	3.9
+	"Texas"	"48"	"2009"	"2009"	1151	24801761	4.6
+	"Texas"	"48"	"2010"	"2010"	1123	25145561	4.5
+	"Texas"	"48"	"2011"	"2011"	1178	25674681	4.6
+	"Texas"	"48"	"2012"	"2012"	1131	26059203	4.3
+	"Texas"	"48"	"2013"	"2013"	1053	26448193	4.0
+	"Texas"	"48"	"2014"	"2014"	1151	26956958	4.3
+"Total"	"Texas"	"48"			9819	226586959	4.3
+	"Utah"	"49"	"2006"	"2006"	331	2525507	13.1
+	"Utah"	"49"	"2007"	"2007"	359	2597746	13.8
+	"Utah"	"49"	"2008"	"2008"	350	2663029	13.1
+	"Utah"	"49"	"2009"	"2009"	370	2723421	13.6
+	"Utah"	"49"	"2010"	"2010"	336	2763885	12.2
+	"Utah"	"49"	"2011"	"2011"	381	2817222	13.5
+	"Utah"	"49"	"2012"	"2012"	422	2855287	14.8
+	"Utah"	"49"	"2013"	"2013"	432	2900872	14.9
+	"Utah"	"49"	"2014"	"2014"	455	2942902	15.5
+"Total"	"Utah"	"49"			3436	24789871	13.9
+	"Vermont"	"50"	"2006"	"2006"	57	622892	9.2
+	"Vermont"	"50"	"2007"	"2007"	52	623481	8.3
+	"Vermont"	"50"	"2008"	"2008"	57	624151	9.1
+	"Vermont"	"50"	"2009"	"2009"	39	624817	6.2
+	"Vermont"	"50"	"2010"	"2010"	43	625741	6.9
+	"Vermont"	"50"	"2011"	"2011"	55	626431	8.8
+	"Vermont"	"50"	"2012"	"2012"	55	626011	8.8
+	"Vermont"	"50"	"2013"	"2013"	70	626630	11.2
+	"Vermont"	"50"	"2014"	"2014"	64	626562	10.2
+"Total"	"Vermont"	"50"			492	5626716	8.7
+	"Virginia"	"51"	"2006"	"2006"	408	7673725	5.3
+	"Virginia"	"51"	"2007"	"2007"	502	7751000	6.5
+	"Virginia"	"51"	"2008"	"2008"	490	7833496	6.3
+	"Virginia"	"51"	"2009"	"2009"	477	7925937	6.0
+	"Virginia"	"51"	"2010"	"2010"	389	8001024	4.9
+	"Virginia"	"51"	"2011"	"2011"	575	8096604	7.1
+	"Virginia"	"51"	"2012"	"2012"	533	8185867	6.5
+	"Virginia"	"51"	"2013"	"2013"	640	8260405	7.7
+	"Virginia"	"51"	"2014"	"2014"	758	8326289	9.1
+"Total"	"Virginia"	"51"			4772	72054347	6.6
+	"Washington"	"53"	"2006"	"2006"	661	6370753	10.4
+	"Washington"	"53"	"2007"	"2007"	651	6461587	10.1
+	"Washington"	"53"	"2008"	"2008"	690	6562231	10.5
+	"Washington"	"53"	"2009"	"2009"	708	6667426	10.6
+	"Washington"	"53"	"2010"	"2010"	628	6724540	9.3
+	"Washington"	"53"	"2011"	"2011"	697	6830038	10.2
+	"Washington"	"53"	"2012"	"2012"	695	6897012	10.1
+	"Washington"	"53"	"2013"	"2013"	640	6971406	9.2
+	"Washington"	"53"	"2014"	"2014"	673	7061530	9.5
+"Total"	"Washington"	"53"			6043	60546523	10.0
+	"West Virginia"	"54"	"2006"	"2006"	285	1827912	15.6
+	"West Virginia"	"54"	"2007"	"2007"	332	1834052	18.1
+	"West Virginia"	"54"	"2008"	"2008"	371	1840310	20.2
+	"West Virginia"	"54"	"2009"	"2009"	184	1847775	10.0
+	"West Virginia"	"54"	"2010"	"2010"	451	1852994	24.3
+	"West Virginia"	"54"	"2011"	"2011"	550	1855364	29.6
+	"West Virginia"	"54"	"2012"	"2012"	468	1855413	25.2
+	"West Virginia"	"54"	"2013"	"2013"	490	1854304	26.4
+	"West Virginia"	"54"	"2014"	"2014"	554	1850326	29.9
+"Total"	"West Virginia"	"54"			3685	16618450	22.2
+	"Wisconsin"	"55"	"2006"	"2006"	334	5577655	6.0
+	"Wisconsin"	"55"	"2007"	"2007"	371	5610775	6.6
+	"Wisconsin"	"55"	"2008"	"2008"	369	5640996	6.5
+	"Wisconsin"	"55"	"2009"	"2009"	397	5669264	7.0
+	"Wisconsin"	"55"	"2010"	"2010"	415	5686986	7.3
+	"Wisconsin"	"55"	"2011"	"2011"	473	5711767	8.3
+	"Wisconsin"	"55"	"2012"	"2012"	483	5726398	8.4
+	"Wisconsin"	"55"	"2013"	"2013"	599	5742713	10.4
+	"Wisconsin"	"55"	"2014"	"2014"	627	5757564	10.9
+"Total"	"Wisconsin"	"55"			4068	51124118	8.0
+	"Wyoming"	"56"	"2006"	"2006"	14	522667	Unreliable
+	"Wyoming"	"56"	"2007"	"2007"	25	534876	4.7
+	"Wyoming"	"56"	"2008"	"2008"	40	546043	7.3
+	"Wyoming"	"56"	"2009"	"2009"	32	559851	5.7
+	"Wyoming"	"56"	"2010"	"2010"	47	563626	8.3
+	"Wyoming"	"56"	"2011"	"2011"	43	568158	7.6
+	"Wyoming"	"56"	"2012"	"2012"	45	576412	7.8
+	"Wyoming"	"56"	"2013"	"2013"	48	582658	8.2
+	"Wyoming"	"56"	"2014"	"2014"	54	584153	9.2
+"Total"	"Wyoming"	"56"			348	5038444	6.9
+"Total"					196803	2779714004	7.1
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014"
+"Group By: State; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Feb 20, 2023 7:22:09 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Feb 20, 2023 7:22:09 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

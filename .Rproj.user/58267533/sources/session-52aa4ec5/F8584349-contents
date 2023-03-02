@@ -1,0 +1,39 @@
+
+---
+title: "Andrew Ba Tran's NICAR R hands on sessions"
+---
+
+## NICAR 2023
+
+* **[Making FancieR data viz](https://schedules.ire.org/nicar-2023#2077)**
+  * [Github repo](github.com)
+  * [Getting started](2023/data_prep.html)
+  * [geofacet](2023/geofacet.html)
+  * [ggrepel](2023/ggrepel.html)
+  * [gganimate](2023/gganimate.html)
+  * [bivariate maps](2023/bivariate_map.html)
+  * [ggtext](2023/ggtext.html)
+
+## NICAR 2020
+
+* **[Mapping with R](https://github.com/andrewbtran/NICAR-2019-mapping)**
+  * [Github repo](https://github.com/andrewbtran/NICAR-2020-mapping)
+  * [leaflet basics](2020/leaflet-basics.html)
+  * [leaflet choropleth](2020/leaflet-choropleth.html)
+  * [mapbox dot density](2020/mapbox-dot-density.html)
+  * [mapbox choropleth](2020/mapbox-choropleth.html)
+  * [crosstalk flexdashboard](2020/crosstalk-flexdashboard.html)
+  * [leaflet tilegrams](2020/leaflet-tilegrams.html)
+  
+## NICAR 2019
+
+* [Mapping with R](https://github.com/andrewbtran/NICAR-2019-mapping)
+
+## NICAR 2018
+
+* [Setting up a reproducible data analysis workflow in R](https://andrewbtran.github.io/NICAR/2018/)
+
+## NICAR 2017
+
+* [Reproducibility and R Markdown](https://andrewbtran.github.io/NICAR/2017/)
+* [Using R as a GIS for spatial analysis and visualization](https://andrewbtran.github.io/NICAR/2017/)

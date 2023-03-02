@@ -1,0 +1,244 @@
+---
+title: "mapbox choropleth"
+format: html
+editor: visual
+---
+
+
+Alright, let's make some chropleths with mapdeck (mapbox+webgl).
+
+We made a quick one in the previous dot density walkthrough, but let's do it again with a few more styling options this time. We'll work with the arcos opioid data so it's similar to the leaflet-choropleths walkthrough.
+
+The repo containing the data and scripts for this section is on Github. 
+To follow along, simply run the lines of code below in R.
+
+-----
+
+```{r eval=F}
+# There is no need to run these install lines below if you already have done so
+install.packages("usethis")
+usethis::use_course("https://github.com/andrewbtran/NICAR-2020-mapping/archive/master.zip")
+
+# This section is in scripts/06_mapbox_choropleths.R
+file.edit("scripts/06_mapbox_choropleths.R")
+
+```
+
+
+```{r loading_packages, warning=F, message=F}
+# This function checks if you don't have the correct packages installed yet
+# If not, it will install it for you
+packages <- c("sf", "tidyverse", "tigris",
+              "arcos", "mapdeck")
+if (length(setdiff(packages, rownames(installed.packages()))) > 0) {
+  install.packages(setdiff(packages, rownames(installed.packages())), repos = "https://cran.us.r-project.org")  
+}
+library(sf)
+library(tidyverse)
+library(tigris)
+library(arcos)
+```
+
+```{r choropleth1, warning=F, message=F, quietly=T, echo=T, results='hide'}
+counties <- st_read("shapefiles/us_counties.shp")
+```
+
+Let's load the mapdeck library and put in the [Mapbox API key](https://account.mapbox.com/access-tokens/).
+
+```{r mapdeck1}
+library(mapdeck)
+
+mb_key <- "PutYourKeyHere"
+```
+
+```{r mbkey, echo=F}
+source("key.R")
+```
+
+```{r viz_states, fig.width=8, fig.height=4, eval=F}
+mapdeck(token = mb_key, 
+        style = mapdeck_style("light"),
+        zoom=10) %>%
+  add_polygon(
+    data =counties,
+    fill_opacity=0.1,
+    stroke_colour="black",
+    stroke_width=1
+  )
+```
+
+Alright, let's bring in some data to join with the county shapes.
+
+```{r data_import, warning=F, message=F}
+#### Import data we want to map ----------------
+annual_summary <- read_csv("data/county_pill_summary.csv")
+```
+
+Join the data.
+
+In the leaflet walkthrough we used the `geo_join()` function from the **tigris** package, but the *counties* and *annual_summary* objects are both dataframes, so a simple `left_join()` from **dplyr** will do just fine.
+
+```{r joined}
+counties_merged_annual <- left_join(counties, annual_summary, by=c("GEOID"="countyfips"))
+
+counties_merged_annual <- counties_merged_annual %>% 
+  filter(!is.na(avg_pills_per_person))
+
+# Setting up the popup text
+popup_sb <- paste0(counties_merged_annual$BUYER_COUNTY, ", ", counties_merged_annual$BUYER_STATE, "</br/> Average pills per person: \n", as.character(counties_merged_annual$avg_pills_per_person))
+```
+
+Check out the options that we can use with [`add_polygon()`](https://symbolixau.github.io/mapdeck/reference/add_polygon.html).
+
+```{r starbucks_map, fig.width=8, fig.height=5, warning=F, message=F}
+
+counties_merged_annual$popup <- paste0("<strong>",counties_merged_annual$BUYER_COUNTY, "</strong><br />", counties_merged_annual$avg_pills_per_person, " pills per person per year")
+```
+
+```{r map_img, eval=F}
+mapdeck(token = mb_key, 
+        style = mapdeck_style("light"),
+        zoom=2,
+        location=c(-98.294108,39.628777))%>% 
+    add_polygon(
+    data = counties_merged_annual,
+    fill_colour = "avg_pills_per_person",
+    fill_opacity = .9,
+    auto_highlight = TRUE,
+    palette = "inferno",
+    tooltip = "popup",
+    update_view = FALSE
+  )
+```
+
+![](images/choro1.png)
+
+## Let's get crazy
+
+Add some elevation data.
+
+```{r elevation, fig.width=8, fig.height=5, warning=F, message=F}
+# We'll need to boost the numbers a bit so the elevation can be seen zoomed out
+counties_merged_annual$elevation <- counties_merged_annual$avg_pills_per_person^2.4
+
+mapdeck(token = mb_key, 
+        style = mapdeck_style("light"),
+        zoom=2,
+        location=c(-98.294108,39.628777),
+        pitch = 45 
+        )%>% 
+    add_polygon(
+      data = counties_merged_annual,
+      fill_colour = "avg_pills_per_person",
+      fill_opacity = .9,
+      auto_highlight = TRUE,
+      palette = "inferno",
+      tooltip = "popup",
+      update_view = FALSE,
+      elevation = "elevation"
+    )
+```
+
+## Fancy heat map
+
+Let's bring in pharmacy locations in Louisiana.
+
+```{r acs}
+la_pharmacies <- read_csv("data/la_pharmacies.csv")
+
+glimpse(la_pharmacies)
+```
+
+The key thing here is that this dataset represents the locations of around 1,600 pharmacies.
+
+Let's see what that looks like really quick.
+
+```{r scatter1, fig.width=8, fig.height=5, warning=F, message=F, eval=F}
+mapdeck(token = mb_key, style = mapdeck_style("light"),
+        zoom=6,
+        location=c(-92.485530,31.335469)) %>% 
+  add_scatterplot(
+    data=la_pharmacies,
+    radius=10,
+    fill_opacity=.3,
+    update_view= FALSE
+  )
+```
+
+![](images/dots1.png)
+
+We could map out each dot like we have before, but let's say we wanted to do something like a heatmap. But different.
+
+Let's do a hexagon grid-based heatmap.
+
+And we'll add a legend as an option.
+
+```{r hexgrid, fig.width=8, fig.height=5, warning=F, message=F, eval=F}
+
+mapdeck(token = mb_key, style = mapdeck_style("light"),
+        zoom=7,
+        location=c(-92.485530,31.335469)) %>% 
+  add_hexagon(
+    data=la_pharmacies,
+    radius=4000,
+    update_view= FALSE,
+    legend = TRUE,
+    legend_options=list(title="Pharmacies"),
+    #elevation_scale = 100,
+    colour_range = colourvalues::colour_values(6:1, palette = colourvalues::get_palette("viridis")[70:256,])
+  )
+```
+![](images/hexagons.png)
+
+Now instead of clusters, we get color-shaded hex grids that indicate a high amount of pharmacies in a specific area.
+
+There's one more version of this in mapbox/mapdeck, square grids.
+
+
+```{r squaregrid, fig.width=8, fig.height=5, warning=F, message=F}
+mapdeck(token = mb_key, style = mapdeck_style("light"),
+        zoom=7,
+        location=c(-92.485530,31.335469)) %>% 
+  add_screengrid(
+    data=la_pharmacies,
+    
+    update_view= FALSE,
+    cell_size = 10,
+    opacity=.5,
+    colour_range = colourvalues::colour_values(6:1, palette = colourvalues::get_palette("viridis")[70:256,])
+  )
+```
+
+It's also quite easy to add a layer of text labels on top of your other layers.
+
+```{r map_labels, fig.width=8, fig.height=5, warning=F, message=F, eval=F}
+location <- data.frame(
+  txt="NICAR 2020",
+  lon=-90.067511,
+  lat=29.952622
+)
+
+mapdeck(token = mb_key, style = mapdeck_style("light"),
+        zoom=12,
+        location=c(-90.067511, 29.952622)) %>% 
+  add_screengrid(
+    data=la_pharmacies,
+    cell_size = 10,
+    opacity=.5,
+    colour_range = colourvalues::colour_values(6:1, 
+    palette = colourvalues::get_palette("viridis")[70:256,])
+    ) %>% 
+  add_text(
+    data=location,
+    lon = 'lon',
+    lat = 'lat',
+    fill_colour = 'red',
+    text = 'txt',
+    size = 16,
+    update_view= FALSE
+
+  )
+
+```
+
+![](images/nicarlabel.png)

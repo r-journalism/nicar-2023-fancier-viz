@@ -1,0 +1,29 @@
+"0",""
+"0","tennessee <- county_df %>% "
+"0","  filter(state==""Tennessee"")"
+"0",""
+"0","glimpse(tennessee)"
+"1","Rows: 254"
+"1",""
+"1","
+"
+"1","Columns: 13"
+"1",""
+"1","
+"
+"1","$ buyer_county [3m[38;5;246m<chr>[39m[23m ""ANDERSON"", ""ANDERSON"", ""ANDERSON"", ""ANDERSON"", ""ANDERSON"", …
+$ buyer_state  [3m[38;5;246m<chr>[39m[23m ""TN"", ""TN"", ""TN"", ""TN"", ""TN"", ""TN"", ""TN"", ""TN"", ""TN"", ""TN"", …
+$ year         [3m[38;5;246m<dbl>[39m[23m 2006, 2006, 2008, 2008, 2010, 2010, 2011, 2011, 2012, 2012, …
+$ count        [3m[38;5;246m<dbl>[39m[23m 11948, 11948, 14350, 14350, 16374, 16374, 17152, 17152, 1795…
+$ dosage_unit  [3m[38;5;246m<dbl>[39m[23m 5065930, 5065930, 5800560, 5800560, 6296700, 6296700, 675392…
+$ countyfips   [3m[38;5;246m<chr>[39m[23m ""47001"", ""47001"", ""47001"", ""47001"", ""47001"", ""47001"", ""47001…
+$ state        [3m[38;5;246m<chr>[39m[23m ""Tennessee"", ""Tennessee"", ""Tennessee"", ""Tennessee"", ""Tenness…
+$ county       [3m[38;5;246m<chr>[39m[23m ""Anderson County, TN"", ""Anderson County, TN"", ""Anderson Coun…
+$ deaths       [3m[38;5;246m<dbl>[39m[23m 10, 10, 11, 11, 11, 11, 14, 14, 11, 11, 23, 23, 11, 11, 10, …
+$ crude_rate   [3m[38;5;246m<chr>[39m[23m ""Unreliable"", ""Unreliable"", ""Unreliable"", ""Unreliable"", ""Unr…
+$ population   [3m[38;5;246m<dbl>[39m[23m 73117, 73117, 74397, 74397, 74257, 74257, 74672, 74672, 7503…
+$ type         [3m[38;5;246m<chr>[39m[23m ""death_per_100k"", ""pills_per_person"", ""death_per_100k"", ""pil…
+$ rate         [3m[38;5;246m<dbl>[39m[23m 13.7, 69.3, 14.8, 78.0, 14.8, 84.8, 18.7, 90.4, 14.7, 94.0, …"
+"1",""
+"1","
+"

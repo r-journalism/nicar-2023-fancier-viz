@@ -1,0 +1,92 @@
+{
+  "nicar-2023-fancier-viz.qmd": {
+    "nicar-2023-fancier-viz.html": "e70e934d"
+  },
+  "index.qmd": {
+    "index.html": "7141d5a8"
+  },
+  "talks.qmd": {
+    "talks.html": "8197973e"
+  },
+  "about.qmd": {
+    "about.html": "8625cf56"
+  },
+  "2021/leaflet-tilegrams.qmd": {
+    "leaflet-tilegrams.html": "8a202ba3"
+  },
+  "2023/bivariate_map.qmd": {
+    "bivariate_map.html": "6c9f5bc6"
+  },
+  "2023/talks.qmd": {
+    "talks.html": "deb02f9d"
+  },
+  "2023/textrepel.qmd": {
+    "textrepel.html": "27936e2a"
+  },
+  "2023/geofacet.qmd": {
+    "geofacet.html": "f216b12f"
+  },
+  "2023/ridgeplot.qmd": {
+    "ridgeplot.html": "365145e7"
+  },
+  "2023/about.qmd": {
+    "about.html": "49bd40d6"
+  },
+  "2023/gganimate.qmd": {
+    "gganimate.html": "fa1efab1"
+  },
+  "2021/leaflet-choropleth.qmd": {
+    "leaflet-choropleth.html": "66b4c6d3"
+  },
+  "2021/talks.qmd": {
+    "talks.html": "7af0589f"
+  },
+  "2021/crosstalk-flexdashboard.qmd": {
+    "crosstalk-flexdashboard.html": "5550dd2c"
+  },
+  "2021/about.qmd": {
+    "about.html": "ca4a32c7"
+  },
+  "2021/mapbox-dot-density.qmd": {
+    "mapbox-dot-density.html": "d00a2e22"
+  },
+  "2021/leaflet-basics.qmd": {
+    "leaflet-basics.html": "e319fbb5"
+  },
+  "2023/data_prep.qmd": {
+    "data_prep.html": "a90f7f7c"
+  },
+  "2020/leaflet-choropleth.qmd": {
+    "leaflet-choropleth.html": "9e21f5d2"
+  },
+  "2020/talks.qmd": {
+    "talks.html": "eee7200d"
+  },
+  "2020/crosstalk-flexdashboard.qmd": {
+    "crosstalk-flexdashboard.html": "4057a1e8"
+  },
+  "2020/leaflet-tilegrams.qmd": {
+    "leaflet-tilegrams.html": "f3ee2769"
+  },
+  "2020/about.qmd": {
+    "about.html": "45b03a57"
+  },
+  "2020/mapbox-dot-density.qmd": {
+    "mapbox-dot-density.html": "e6bb4d77"
+  },
+  "2020/leaflet-basics.qmd": {
+    "leaflet-basics.html": "3e932383"
+  },
+  "2020/mapbox-choropleth.qmd": {
+    "mapbox-choropleth.html": "fb84355f"
+  },
+  "2023/ggrepel.qmd": {
+    "ggrepel.html": "bfaf39de"
+  },
+  "2023/test_slides.qmd": {
+    "test_slides.html": "865162bb"
+  },
+  "2023/ggtext.qmd": {
+    "ggtext.html": "3210f5a7"
+  }
+}

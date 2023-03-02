@@ -1,0 +1,201 @@
+---
+title: "geofacet"
+format: html
+editor: visual
+---
+
+You can follow along with the `geofacet.qmd` file in the **nicar-2023-fancier-viz** project folder that you downloaded in the [**First steps**](data_prep.html) link.
+
+If you've downloaded the appropriate data files and put them in a data folder, you can just copy and paste all the code in the gray boxes in an R script.
+
+We're going to try a package called **geofacet**.
+
+Type out or copy and paste all the code in all the gray sections below in your own script or console or run the chunks as they appear in the `geofacet.qmd` file.
+
+Let's load the libraries, import the state-level data and see the structure of the data we've imported.
+
+```{r loading}
+#| warning: FALSE
+#| message: FALSE
+
+library(tidyverse)
+library(geofacet)
+
+state_df <- read_csv("data/opioids_states.csv")
+
+glimpse(state_df)
+```
+
+Great, let's start some exploratory visualizations. We've got annual data on rates of deaths and pill purchases in the columns `type` and `rate` for each state and year in the country.
+
+Let's plot it to our relevant state for this workshop: Tennessee.
+
+```{r}
+# Because the data is tidy, we can easily plot both rates in a single chart
+
+state_df %>% 
+  filter(state=="Tennessee") %>% 
+  ggplot(aes(x=year, y=rate, color=type)) +
+  geom_line() +
+  theme_minimal() +
+  labs(title="Rates of opioid purchases and deaths in Tennessee")
+```
+
+Very interesting!
+
+That's just one state.
+
+Let's use all the great ggplot2 features like creating small multiples of the charts based on each state (Did you know Datawrapper supports [some](https://academy.datawrapper.de/article/162-alternatives-for-drop-down-menus-and-tabs) small multiples viz?).
+
+All we need to add is the function `facet_wrap()` and pass it the variable we want to create small multiples with: *buyer_state*.
+
+```{r}
+#| fig.width: 9
+#| fig.height: 10
+
+state_df %>% 
+# commenting out the line from above
+# filter(state=="Tennessee") %>% 
+  ggplot(aes(x=year, y=rate, color=type)) +
+  geom_line() +
+# adding a new line here
+  facet_wrap(vars(buyer_state), ncol=8) +
+  theme_minimal() +
+  labs(title="Rates of opioid purchases and deaths in Tennessee")
+```
+
+Okay, that's a start. We see some interesting variability...
+
+There's a cluster around the states that start with M and O and W! But that's not relevant!
+
+The problem is the states are all alphabetical. That's not a huge problem for categorical data most of the time but we're used to states in certain areas in relation to other states, right?
+
+This is a great opportunity for the package [**geofacet**](https://hafen.github.io/geofacet/)which adds on to ggplot2 that makes it easy to create geographically faceted visualizations. No state is a silo. By mimicking the original geographic topology, you can see patterns much more clearly.
+
+It's very simple.
+
+Instead of using `facet_wrap()` from **ggplot2**, you load the **geofacet** package and use the function `facet_geo()`.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+#| fig.width: 9
+#| fig.height: 6
+
+# same lines as before
+state_df %>% 
+  ggplot(aes(x=year, y=rate, color=type)) +
+  geom_line() +
+# deleting the line below
+# facet_wrap(vars(buyer_state), ncol=8) +
+  facet_geo(vars(buyer_state)) +
+  theme_minimal() +
+  labs(title="Rates of opioid purchases and deaths by state")
+```
+
+Isn't this better? What sort of regional patterns can you spot now?
+
+The states surrounding West Virginia were definitely affected by opioid overdoses.
+
+In the last few years of data, it appears like the Northeast was deeply affected.
+
+If you don't like that shape, you can pass it an argument for what type of grid to use. Instead of the default, we'll pass it the argument "us_state_grid2" which I personally like more.
+
+And we'll clean up the labels in the x axis.
+
+```{r}
+#| fig.width: 9
+#| fig.height: 6
+
+state_df %>% 
+  ggplot(aes(x=year, y=rate, color=type)) +
+  geom_line() +
+# deleting the line below
+# facet_geo(vars(buyer_state)) +
+  facet_geo(vars(buyer_state), grid = "us_state_grid2") +
+  theme_minimal() +
+# adding in a new line
+  scale_x_continuous(breaks=c(2006, 2014),
+                     labels=c("'06", "'14")) +
+  labs(title="Rates of opioid purchases and deaths in the U.S.")
+```
+
+The geofacets aren't limited to states.
+
+There are 140+ grids available so far, from European countries, to regions in New Zealand, to provinces of Afghanistan. Check out the [complete list](https://hafen.github.io/geofacet/) for now-- if you don't see one that you're looking for, it's very simple to [create your own](https://hafen.github.io/grid-designer/) and submit a pull request.
+
+For now, let's pull in some county level data.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+
+county_df <- read_csv("data/opioids_counties.csv")
+
+glimpse(county_df)
+```
+
+Let's narrow down the county data to only Tennessee.
+
+```{r}
+
+tennessee <- county_df %>% 
+  filter(buyer_state=="TN")
+
+glimpse(tennessee)
+```
+
+Let's make a small multiple chart using the county-level data for Tennessee.
+
+We'll have to pass it the grid argument of "us_tn_counties_grid1".
+
+Also, you may want to copy and paste the chunk of code to run in console so the map shows up in the viewer instead of the notebook. Then you can expand it out and see the names better.
+
+```{r}
+#| warning: FALSE
+#| message: FALSE
+#| fig.width: 9
+#| fig.height: 6
+
+tennessee %>% 
+  mutate(buyer_county=str_to_title(buyer_county)) %>% 
+  ggplot(aes(x=year, y=rate, color=type)) +
+  geom_line() +
+  facet_geo(vars(buyer_county), grid = "us_tn_counties_grid1") +
+  theme_minimal() +
+  scale_x_continuous(breaks=c(2006, 2014),
+                     labels=c("'06", "'14")) +
+  labs(title="Rates of opioid purchases and deaths in Tennessee")
+```
+
+Fascinating! It's a little crammed together to fit on this specific page.
+
+If you ran it in your console you may have a pop up where the names all fit.
+
+There's a lot of data missing because there weren't enough annual deaths for CDC to release the data. You may need to widen the scope of the CDC query or go to the state health department for the missing data.
+
+Let's try another way to visualize the relationship between deaths and purchases.
+
+When you're done with this section, move on to [**ggrepel**](ggrepel.html).
+
+## Quick aside
+
+I wanted to highlight a geofacet project that made it to publication: **The staggering scope of U.S. gun deaths goes far beyond mass shootings** \[[**link**](https://www.washingtonpost.com/nation/interactive/2022/gun-deaths-per-year-usa/)\]
+
+1.  Simple geofacet dataviz of how restrictive gun laws are by state.
+
+![](images/sm1.png){fig-align="center"}
+
+2.  Overlaying rates of firearm deaths with estimated fire arm purchases with the restrictive gun law categorized overlaid.
+
+![](images/sm2.png){fig-align="center"}
+
+3.  Highlighting for context areas of interest and why
+
+![](images/sm3.png){fig-align="center"}
+
+4.  One more viz with small multiples of geofacets and grouped slope graphs based on strength of gun control laws.
+
+![](images/sm4.png){fig-align="center"}
+
+Props to [Artur Galocha](https://twitter.com/arturgalocha) for putting this beautiful viz together based off from some very basic exploratory data viz.

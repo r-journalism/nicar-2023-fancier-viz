@@ -1,0 +1,39 @@
+"0","#| warning: FALSE"
+"0","#| message: FALSE"
+"0",""
+"0","library(tidyverse)"
+"0","library(sf)"
+"0","library(cowplot)"
+"0","library(biscale)"
+"0","library(tigris)"
+"0",""
+"0","county_df <- read_csv(""data/opioids_counties_combined.csv"")"
+"0",""
+"0",""
+"0","county_df_wide <-  county_df %>% "
+"0","  pivot_wider(names_from=""type"", values_from=""rate"")"
+"0",""
+"0","glimpse(county_df_wide)"
+"1","Rows: 3,135"
+"1",""
+"1","
+"
+"1","Columns: 12"
+"1",""
+"1","
+"
+"1","$ buyer_county     [3m[38;5;246m<chr>[39m[23m ""ABBEVILLE"", ""ACADIA"", ""ACCOMACK"", ""ADA""…
+$ buyer_state      [3m[38;5;246m<chr>[39m[23m ""SC"", ""LA"", ""VA"", ""ID"", ""IA"", ""KY"", ""MO""…
+$ countyfips       [3m[38;5;246m<chr>[39m[23m ""45001"", ""22001"", ""51001"", ""16001"", ""190…
+$ count            [3m[38;5;246m<dbl>[39m[23m 10749, 55952, 19536, 290484, 5752, 21985…
+$ dosage_unit      [3m[38;5;246m<dbl>[39m[23m 4591000, 22197708, 6660470, 136806828, 1…
+$ state            [3m[38;5;246m<chr>[39m[23m NA, ""Louisiana"", ""Virginia"", ""Idaho"", NA…
+$ county           [3m[38;5;246m<chr>[39m[23m NA, ""Acadia Parish, LA"", ""Accomack Count…
+$ deaths           [3m[38;5;246m<dbl>[39m[23m NA, 39, 22, 269, NA, 14, 13, 19, 402, NA…
+$ year             [3m[38;5;246m<dbl>[39m[23m 2014, 2014, 2014, 2014, 2014, 2014, 2014…
+$ population       [3m[38;5;246m<dbl>[39m[23m 25100, 62031, 33165, 409239, 7543, 19032…
+$ death_per_100k   [3m[38;5;246m<dbl>[39m[23m NA, 62.9, 66.3, 65.7, NA, 73.6, 50.7, 84…
+$ pills_per_person [3m[38;5;246m<dbl>[39m[23m 182.9, 357.8, 200.8, 334.3, 236.4, 461.5…"
+"1",""
+"1","
+"

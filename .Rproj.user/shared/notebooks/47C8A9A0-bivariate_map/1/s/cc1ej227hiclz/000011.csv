@@ -1,0 +1,6 @@
+"0","#| warning: FALSE"
+"0","#| message: FALSE"
+"0",""
+"0","ggplot(us_counties) + "
+"0","  geom_sf() +"
+"0","  theme_void()"

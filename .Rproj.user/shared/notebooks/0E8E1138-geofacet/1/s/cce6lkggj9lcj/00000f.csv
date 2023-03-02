@@ -1,0 +1,36 @@
+"0","library(tidyverse)"
+"0","library(geofacet)"
+"0",""
+"0","state_df <- read_csv(""data/opioids_states.csv"")"
+"2","[1mRows: [22m[34m918[39m [1mColumns: [22m[34m12[39m"
+"2","[36m──[39m [1mColumn specification[22m [36m──────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m (7): buyer_state, state, crude_rate, type, state_code, region, division
+[32mdbl[39m (5): year, pills, deaths, population, rate"
+"2","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message."
+"0","glimpse(state_df)"
+"1","Rows: 918"
+"1",""
+"1","
+"
+"1","Columns: 12"
+"1",""
+"1","
+"
+"1","$ buyer_state [3m[38;5;246m<chr>[39m[23m ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", …
+$ year        [3m[38;5;246m<dbl>[39m[23m 2006, 2006, 2007, 2007, 2008, 2008, 2009, 2009, 2010, 2010, 2011, 2011, …
+$ pills       [3m[38;5;246m<dbl>[39m[23m 15667010, 15667010, 17272433, 17272433, 18707811, 18707811, 20160949, 20…
+$ state       [3m[38;5;246m<chr>[39m[23m ""Alaska"", ""Alaska"", ""Alaska"", ""Alaska"", ""Alaska"", ""Alaska"", ""Alaska"", ""A…
+$ deaths      [3m[38;5;246m<dbl>[39m[23m 29, 29, 15, 15, 88, 88, 90, 90, 62, 62, 66, 66, 81, 81, 69, 69, 76, 76, …
+$ population  [3m[38;5;246m<dbl>[39m[23m 675302, 675302, 680300, 680300, 687455, 687455, 698895, 698895, 710231, …
+$ crude_rate  [3m[38;5;246m<chr>[39m[23m ""4.3"", ""4.3"", ""Unreliable"", ""Unreliable"", ""12.8"", ""12.8"", ""12.9"", ""12.9""…
+$ type        [3m[38;5;246m<chr>[39m[23m ""death_per_1m"", ""pills_per_person"", ""death_per_1m"", ""pills_per_person"", …
+$ rate        [3m[38;5;246m<dbl>[39m[23m 42.9, 23.2, 22.0, 25.4, 128.0, 27.2, 128.8, 28.8, 87.3, 29.6, 91.3, 31.1…
+$ state_code  [3m[38;5;246m<chr>[39m[23m ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", ""AK"", …
+$ region      [3m[38;5;246m<chr>[39m[23m ""West"", ""West"", ""West"", ""West"", ""West"", ""West"", ""West"", ""West"", ""West"", …
+$ division    [3m[38;5;246m<chr>[39m[23m ""Pacific"", ""Pacific"", ""Pacific"", ""Pacific"", ""Pacific"", ""Pacific"", ""Pacif…"
+"1",""
+"1","
+"

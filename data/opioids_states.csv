@@ -1,0 +1,919 @@
+buyer_state,year,pills,state,deaths,population,crude_rate,type,rate,state_code,region,division
+AK,2006,15667010,Alaska,29,675302,4.3,death_per_1m,42.9,AK,West,Pacific
+AK,2006,15667010,Alaska,29,675302,4.3,pills_per_person,23.2,AK,West,Pacific
+AK,2007,17272433,Alaska,15,680300,Unreliable,death_per_1m,22,AK,West,Pacific
+AK,2007,17272433,Alaska,15,680300,Unreliable,pills_per_person,25.4,AK,West,Pacific
+AK,2008,18707811,Alaska,88,687455,12.8,death_per_1m,128,AK,West,Pacific
+AK,2008,18707811,Alaska,88,687455,12.8,pills_per_person,27.2,AK,West,Pacific
+AK,2009,20160949,Alaska,90,698895,12.9,death_per_1m,128.8,AK,West,Pacific
+AK,2009,20160949,Alaska,90,698895,12.9,pills_per_person,28.8,AK,West,Pacific
+AK,2010,21012703,Alaska,62,710231,8.7,death_per_1m,87.3,AK,West,Pacific
+AK,2010,21012703,Alaska,62,710231,8.7,pills_per_person,29.6,AK,West,Pacific
+AK,2011,22444775,Alaska,66,722718,9.1,death_per_1m,91.3,AK,West,Pacific
+AK,2011,22444775,Alaska,66,722718,9.1,pills_per_person,31.1,AK,West,Pacific
+AK,2012,22753525,Alaska,81,731449,11.1,death_per_1m,110.7,AK,West,Pacific
+AK,2012,22753525,Alaska,81,731449,11.1,pills_per_person,31.1,AK,West,Pacific
+AK,2013,22106218,Alaska,69,735132,9.4,death_per_1m,93.9,AK,West,Pacific
+AK,2013,22106218,Alaska,69,735132,9.4,pills_per_person,30.1,AK,West,Pacific
+AK,2014,22012430,Alaska,76,736732,10.3,death_per_1m,103.2,AK,West,Pacific
+AK,2014,22012430,Alaska,76,736732,10.3,pills_per_person,29.9,AK,West,Pacific
+AL,2006,174362637.8,Alabama,124,4628981,2.7,death_per_1m,26.8,AL,South,East South Central
+AL,2006,174362637.8,Alabama,124,4628981,2.7,pills_per_person,37.7,AL,South,East South Central
+AL,2007,198339003,Alabama,165,4672840,3.5,death_per_1m,35.3,AL,South,East South Central
+AL,2007,198339003,Alabama,165,4672840,3.5,pills_per_person,42.4,AL,South,East South Central
+AL,2008,221595561.1,Alabama,185,4718206,3.9,death_per_1m,39.2,AL,South,East South Central
+AL,2008,221595561.1,Alabama,185,4718206,3.9,pills_per_person,47,AL,South,East South Central
+AL,2009,238406162.89999998,Alabama,206,4757938,4.3,death_per_1m,43.3,AL,South,East South Central
+AL,2009,238406162.89999998,Alabama,206,4757938,4.3,pills_per_person,50.1,AL,South,East South Central
+AL,2010,257664915.5,Alabama,187,4779736,3.9,death_per_1m,39.1,AL,South,East South Central
+AL,2010,257664915.5,Alabama,187,4779736,3.9,pills_per_person,53.9,AL,South,East South Central
+AL,2011,292341765,Alabama,176,4802740,3.7,death_per_1m,36.6,AL,South,East South Central
+AL,2011,292341765,Alabama,176,4802740,3.7,pills_per_person,60.9,AL,South,East South Central
+AL,2012,311035931,Alabama,165,4822023,3.4,death_per_1m,34.2,AL,South,East South Central
+AL,2012,311035931,Alabama,165,4822023,3.4,pills_per_person,64.5,AL,South,East South Central
+AL,2013,311363534,Alabama,166,4833722,3.4,death_per_1m,34.3,AL,South,East South Central
+AL,2013,311363534,Alabama,166,4833722,3.4,pills_per_person,64.4,AL,South,East South Central
+AL,2014,301248422,Alabama,270,4849377,5.6,death_per_1m,55.7,AL,South,East South Central
+AL,2014,301248422,Alabama,270,4849377,5.6,pills_per_person,62.1,AL,South,East South Central
+AR,2006,88505157,Arkansas,140,2821761,5.0,death_per_1m,49.6,AR,South,West South Central
+AR,2006,88505157,Arkansas,140,2821761,5.0,pills_per_person,31.4,AR,South,West South Central
+AR,2007,102240162,Arkansas,148,2848650,5.2,death_per_1m,52,AR,South,West South Central
+AR,2007,102240162,Arkansas,148,2848650,5.2,pills_per_person,35.9,AR,South,West South Central
+AR,2008,116232443,Arkansas,197,2874554,6.9,death_per_1m,68.5,AR,South,West South Central
+AR,2008,116232443,Arkansas,197,2874554,6.9,pills_per_person,40.4,AR,South,West South Central
+AR,2009,128445041,Arkansas,201,2896843,6.9,death_per_1m,69.4,AR,South,West South Central
+AR,2009,128445041,Arkansas,201,2896843,6.9,pills_per_person,44.3,AR,South,West South Central
+AR,2010,142663856,Arkansas,189,2915918,6.5,death_per_1m,64.8,AR,South,West South Central
+AR,2010,142663856,Arkansas,189,2915918,6.5,pills_per_person,48.9,AR,South,West South Central
+AR,2011,155201714,Arkansas,169,2937979,5.8,death_per_1m,57.5,AR,South,West South Central
+AR,2011,155201714,Arkansas,169,2937979,5.8,pills_per_person,52.8,AR,South,West South Central
+AR,2012,162927804,Arkansas,169,2949131,5.7,death_per_1m,57.3,AR,South,West South Central
+AR,2012,162927804,Arkansas,169,2949131,5.7,pills_per_person,55.2,AR,South,West South Central
+AR,2013,161125641.5,Arkansas,162,2959373,5.5,death_per_1m,54.7,AR,South,West South Central
+AR,2013,161125641.5,Arkansas,162,2959373,5.5,pills_per_person,54.4,AR,South,West South Central
+AR,2014,165723385,Arkansas,173,2966369,5.8,death_per_1m,58.3,AR,South,West South Central
+AR,2014,165723385,Arkansas,173,2966369,5.8,pills_per_person,55.9,AR,South,West South Central
+AZ,2006,177223504,Arizona,459,6029141,7.6,death_per_1m,76.1,AZ,West,Mountain
+AZ,2006,177223504,Arizona,459,6029141,7.6,pills_per_person,29.4,AZ,West,Mountain
+AZ,2007,199217873,Arizona,461,6167681,7.5,death_per_1m,74.7,AZ,West,Mountain
+AZ,2007,199217873,Arizona,461,6167681,7.5,pills_per_person,32.3,AZ,West,Mountain
+AZ,2008,217791979,Arizona,494,6280362,7.9,death_per_1m,78.7,AZ,West,Mountain
+AZ,2008,217791979,Arizona,494,6280362,7.9,pills_per_person,34.7,AZ,West,Mountain
+AZ,2009,237291585,Arizona,605,6343154,9.5,death_per_1m,95.4,AZ,West,Mountain
+AZ,2009,237291585,Arizona,605,6343154,9.5,pills_per_person,37.4,AZ,West,Mountain
+AZ,2010,246902106,Arizona,626,6392017,9.8,death_per_1m,97.9,AZ,West,Mountain
+AZ,2010,246902106,Arizona,626,6392017,9.8,pills_per_person,38.6,AZ,West,Mountain
+AZ,2011,275699799,Arizona,562,6482505,8.7,death_per_1m,86.7,AZ,West,Mountain
+AZ,2011,275699799,Arizona,562,6482505,8.7,pills_per_person,42.5,AZ,West,Mountain
+AZ,2012,282037213,Arizona,526,6553255,8.0,death_per_1m,80.3,AZ,West,Mountain
+AZ,2012,282037213,Arizona,526,6553255,8.0,pills_per_person,43,AZ,West,Mountain
+AZ,2013,273592244,Arizona,527,6626624,8.0,death_per_1m,79.5,AZ,West,Mountain
+AZ,2013,273592244,Arizona,527,6626624,8.0,pills_per_person,41.3,AZ,West,Mountain
+AZ,2014,276809078,Arizona,589,6731484,8.7,death_per_1m,87.5,AZ,West,Mountain
+AZ,2014,276809078,Arizona,589,6731484,8.7,pills_per_person,41.1,AZ,West,Mountain
+CA,2006,859369649.5,California,1511,36021202,4.2,death_per_1m,41.9,CA,West,Pacific
+CA,2006,859369649.5,California,1511,36021202,4.2,pills_per_person,23.9,CA,West,Pacific
+CA,2007,922458266.5,California,1657,36250311,4.6,death_per_1m,45.7,CA,West,Pacific
+CA,2007,922458266.5,California,1657,36250311,4.6,pills_per_person,25.4,CA,West,Pacific
+CA,2008,986279620.9,California,1801,36604337,4.9,death_per_1m,49.2,CA,West,Pacific
+CA,2008,986279620.9,California,1801,36604337,4.9,pills_per_person,26.9,CA,West,Pacific
+CA,2009,1059801502,California,1987,36961229,5.4,death_per_1m,53.8,CA,West,Pacific
+CA,2009,1059801502,California,1987,36961229,5.4,pills_per_person,28.7,CA,West,Pacific
+CA,2010,1099478470.8,California,1929,37253956,5.2,death_per_1m,51.8,CA,West,Pacific
+CA,2010,1099478470.8,California,1929,37253956,5.2,pills_per_person,29.5,CA,West,Pacific
+CA,2011,1201021515.98,California,1938,37691912,5.1,death_per_1m,51.4,CA,West,Pacific
+CA,2011,1201021515.98,California,1938,37691912,5.1,pills_per_person,31.9,CA,West,Pacific
+CA,2012,1224616420.5,California,1719,38041430,4.5,death_per_1m,45.2,CA,West,Pacific
+CA,2012,1224616420.5,California,1719,38041430,4.5,pills_per_person,32.2,CA,West,Pacific
+CA,2013,1199867230,California,1948,38332521,5.1,death_per_1m,50.8,CA,West,Pacific
+CA,2013,1199867230,California,1948,38332521,5.1,pills_per_person,31.3,CA,West,Pacific
+CA,2014,1161408034,California,2024,38802500,5.2,death_per_1m,52.2,CA,West,Pacific
+CA,2014,1161408034,California,2024,38802500,5.2,pills_per_person,29.9,CA,West,Pacific
+CO,2006,108146427,Colorado,326,4720423,6.9,death_per_1m,69.1,CO,West,Mountain
+CO,2006,108146427,Colorado,326,4720423,6.9,pills_per_person,22.9,CO,West,Mountain
+CO,2007,123378635,Colorado,353,4803868,7.3,death_per_1m,73.5,CO,West,Mountain
+CO,2007,123378635,Colorado,353,4803868,7.3,pills_per_person,25.7,CO,West,Mountain
+CO,2008,136749278,Colorado,355,4889730,7.3,death_per_1m,72.6,CO,West,Mountain
+CO,2008,136749278,Colorado,355,4889730,7.3,pills_per_person,28,CO,West,Mountain
+CO,2009,146670274.25,Colorado,397,4972195,8.0,death_per_1m,79.8,CO,West,Mountain
+CO,2009,146670274.25,Colorado,397,4972195,8.0,pills_per_person,29.5,CO,West,Mountain
+CO,2010,156259408,Colorado,304,5029196,6.0,death_per_1m,60.4,CO,West,Mountain
+CO,2010,156259408,Colorado,304,5029196,6.0,pills_per_person,31.1,CO,West,Mountain
+CO,2011,171621880,Colorado,418,5116796,8.2,death_per_1m,81.7,CO,West,Mountain
+CO,2011,171621880,Colorado,418,5116796,8.2,pills_per_person,33.5,CO,West,Mountain
+CO,2012,177690818,Colorado,407,5187582,7.8,death_per_1m,78.5,CO,West,Mountain
+CO,2012,177690818,Colorado,407,5187582,7.8,pills_per_person,34.3,CO,West,Mountain
+CO,2013,164260655,Colorado,433,5268367,8.2,death_per_1m,82.2,CO,West,Mountain
+CO,2013,164260655,Colorado,433,5268367,8.2,pills_per_person,31.2,CO,West,Mountain
+CO,2014,160893600,Colorado,517,5355866,9.7,death_per_1m,96.5,CO,West,Mountain
+CO,2014,160893600,Colorado,517,5355866,9.7,pills_per_person,30,CO,West,Mountain
+CT,2006,79193171,Connecticut,224,3517460,6.4,death_per_1m,63.7,CT,Northeast,New England
+CT,2006,79193171,Connecticut,224,3517460,6.4,pills_per_person,22.5,CT,Northeast,New England
+CT,2007,89094180,Connecticut,244,3527270,6.9,death_per_1m,69.2,CT,Northeast,New England
+CT,2007,89094180,Connecticut,244,3527270,6.9,pills_per_person,25.3,CT,Northeast,New England
+CT,2008,94115754,Connecticut,230,3545579,6.5,death_per_1m,64.9,CT,Northeast,New England
+CT,2008,94115754,Connecticut,230,3545579,6.5,pills_per_person,26.5,CT,Northeast,New England
+CT,2009,97114434.0116,Connecticut,216,3561807,6.1,death_per_1m,60.6,CT,Northeast,New England
+CT,2009,97114434.0116,Connecticut,216,3561807,6.1,pills_per_person,27.3,CT,Northeast,New England
+CT,2010,100691360.4403,Connecticut,223,3574097,6.2,death_per_1m,62.4,CT,Northeast,New England
+CT,2010,100691360.4403,Connecticut,223,3574097,6.2,pills_per_person,28.2,CT,Northeast,New England
+CT,2011,106304718.87,Connecticut,209,3580709,5.8,death_per_1m,58.4,CT,Northeast,New England
+CT,2011,106304718.87,Connecticut,209,3580709,5.8,pills_per_person,29.7,CT,Northeast,New England
+CT,2012,108391315,Connecticut,201,3590347,5.6,death_per_1m,56,CT,Northeast,New England
+CT,2012,108391315,Connecticut,201,3590347,5.6,pills_per_person,30.2,CT,Northeast,New England
+CT,2013,105387424,Connecticut,439,3596080,12.2,death_per_1m,122.1,CT,Northeast,New England
+CT,2013,105387424,Connecticut,439,3596080,12.2,pills_per_person,29.3,CT,Northeast,New England
+CT,2014,101226330,Connecticut,525,3596677,14.6,death_per_1m,146,CT,Northeast,New England
+CT,2014,101226330,Connecticut,525,3596677,14.6,pills_per_person,28.1,CT,Northeast,New England
+DC,2006,6577630,District of Columbia,55,570681,9.6,death_per_1m,96.4,DC,South,South Atlantic
+DC,2006,6577630,District of Columbia,55,570681,9.6,pills_per_person,11.5,DC,South,South Atlantic
+DC,2007,8403105,District of Columbia,29,574404,5.0,death_per_1m,50.5,DC,South,South Atlantic
+DC,2007,8403105,District of Columbia,29,574404,5.0,pills_per_person,14.6,DC,South,South Atlantic
+DC,2008,7618060,District of Columbia,31,580236,5.3,death_per_1m,53.4,DC,South,South Atlantic
+DC,2008,7618060,District of Columbia,31,580236,5.3,pills_per_person,13.1,DC,South,South Atlantic
+DC,2009,8192750,District of Columbia,13,592228,Unreliable,death_per_1m,22,DC,South,South Atlantic
+DC,2009,8192750,District of Columbia,13,592228,Unreliable,pills_per_person,13.8,DC,South,South Atlantic
+DC,2010,8796900,District of Columbia,34,601723,5.7,death_per_1m,56.5,DC,South,South Atlantic
+DC,2010,8796900,District of Columbia,34,601723,5.7,pills_per_person,14.6,DC,South,South Atlantic
+DC,2011,9360370,District of Columbia,51,617996,8.3,death_per_1m,82.5,DC,South,South Atlantic
+DC,2011,9360370,District of Columbia,51,617996,8.3,pills_per_person,15.1,DC,South,South Atlantic
+DC,2012,9086760,District of Columbia,44,632323,7.0,death_per_1m,69.6,DC,South,South Atlantic
+DC,2012,9086760,District of Columbia,44,632323,7.0,pills_per_person,14.4,DC,South,South Atlantic
+DC,2013,9060730,District of Columbia,60,646449,9.3,death_per_1m,92.8,DC,South,South Atlantic
+DC,2013,9060730,District of Columbia,60,646449,9.3,pills_per_person,14,DC,South,South Atlantic
+DC,2014,8599410,District of Columbia,63,658893,9.6,death_per_1m,95.6,DC,South,South Atlantic
+DC,2014,8599410,District of Columbia,63,658893,9.6,pills_per_person,13.1,DC,South,South Atlantic
+DE,2006,28796880,Delaware,37,859268,4.3,death_per_1m,43.1,DE,South,South Atlantic
+DE,2006,28796880,Delaware,37,859268,4.3,pills_per_person,33.5,DE,South,South Atlantic
+DE,2007,32666854,Delaware,45,871749,5.2,death_per_1m,51.6,DE,South,South Atlantic
+DE,2007,32666854,Delaware,45,871749,5.2,pills_per_person,37.5,DE,South,South Atlantic
+DE,2008,38537060,Delaware,65,883874,7.4,death_per_1m,73.5,DE,South,South Atlantic
+DE,2008,38537060,Delaware,65,883874,7.4,pills_per_person,43.6,DE,South,South Atlantic
+DE,2009,41552958,Delaware,81,891730,9.1,death_per_1m,90.8,DE,South,South Atlantic
+DE,2009,41552958,Delaware,81,891730,9.1,pills_per_person,46.6,DE,South,South Atlantic
+DE,2010,45359564,Delaware,103,897934,11.5,death_per_1m,114.7,DE,South,South Atlantic
+DE,2010,45359564,Delaware,103,897934,11.5,pills_per_person,50.5,DE,South,South Atlantic
+DE,2011,48359600,Delaware,113,907135,12.5,death_per_1m,124.6,DE,South,South Atlantic
+DE,2011,48359600,Delaware,113,907135,12.5,pills_per_person,53.3,DE,South,South Atlantic
+DE,2012,40891200,Delaware,82,917092,8.9,death_per_1m,89.4,DE,South,South Atlantic
+DE,2012,40891200,Delaware,82,917092,8.9,pills_per_person,44.6,DE,South,South Atlantic
+DE,2013,35134240,Delaware,113,925749,12.2,death_per_1m,122.1,DE,South,South Atlantic
+DE,2013,35134240,Delaware,113,925749,12.2,pills_per_person,38,DE,South,South Atlantic
+DE,2014,33686260,Delaware,124,935614,13.3,death_per_1m,132.5,DE,South,South Atlantic
+DE,2014,33686260,Delaware,124,935614,13.3,pills_per_person,36,DE,South,South Atlantic
+FL,2006,626273821.1,Florida,1223,18166990,6.7,death_per_1m,67.3,FL,South,South Atlantic
+FL,2006,626273821.1,Florida,1223,18166990,6.7,pills_per_person,34.5,FL,South,South Atlantic
+FL,2007,676244397.5,Florida,1473,18367842,8.0,death_per_1m,80.2,FL,South,South Atlantic
+FL,2007,676244397.5,Florida,1473,18367842,8.0,pills_per_person,36.8,FL,South,South Atlantic
+FL,2008,746900206.6,Florida,1478,18527305,8.0,death_per_1m,79.8,FL,South,South Atlantic
+FL,2008,746900206.6,Florida,1478,18527305,8.0,pills_per_person,40.3,FL,South,South Atlantic
+FL,2009,846245565,Florida,1590,18652644,8.5,death_per_1m,85.2,FL,South,South Atlantic
+FL,2009,846245565,Florida,1590,18652644,8.5,pills_per_person,45.4,FL,South,South Atlantic
+FL,2010,963229287,Florida,1674,18801310,8.9,death_per_1m,89,FL,South,South Atlantic
+FL,2010,963229287,Florida,1674,18801310,8.9,pills_per_person,51.2,FL,South,South Atlantic
+FL,2011,865001403.6,Florida,1576,19057542,8.3,death_per_1m,82.7,FL,South,South Atlantic
+FL,2011,865001403.6,Florida,1576,19057542,8.3,pills_per_person,45.4,FL,South,South Atlantic
+FL,2012,686896077.3,Florida,1326,19317568,6.9,death_per_1m,68.6,FL,South,South Atlantic
+FL,2012,686896077.3,Florida,1326,19317568,6.9,pills_per_person,35.6,FL,South,South Atlantic
+FL,2013,642769327,Florida,1268,19552860,6.5,death_per_1m,64.8,FL,South,South Atlantic
+FL,2013,642769327,Florida,1268,19552860,6.5,pills_per_person,32.9,FL,South,South Atlantic
+FL,2014,639588247,Florida,1399,19893297,7.0,death_per_1m,70.3,FL,South,South Atlantic
+FL,2014,639588247,Florida,1399,19893297,7.0,pills_per_person,32.2,FL,South,South Atlantic
+GA,2006,232591798.56989998,Georgia,331,9155813,3.6,death_per_1m,36.2,GA,South,South Atlantic
+GA,2006,232591798.56989998,Georgia,331,9155813,3.6,pills_per_person,25.4,GA,South,South Atlantic
+GA,2007,267971987,Georgia,385,9349988,4.1,death_per_1m,41.2,GA,South,South Atlantic
+GA,2007,267971987,Georgia,385,9349988,4.1,pills_per_person,28.7,GA,South,South Atlantic
+GA,2008,294523821.125,Georgia,404,9504843,4.3,death_per_1m,42.5,GA,South,South Atlantic
+GA,2008,294523821.125,Georgia,404,9504843,4.3,pills_per_person,31,GA,South,South Atlantic
+GA,2009,321627507.625,Georgia,490,9620846,5.1,death_per_1m,50.9,GA,South,South Atlantic
+GA,2009,321627507.625,Georgia,490,9620846,5.1,pills_per_person,33.4,GA,South,South Atlantic
+GA,2010,358750610.37710005,Georgia,534,9687653,5.5,death_per_1m,55.1,GA,South,South Atlantic
+GA,2010,358750610.37710005,Georgia,534,9687653,5.5,pills_per_person,37,GA,South,South Atlantic
+GA,2011,394293082.356,Georgia,535,9815210,5.5,death_per_1m,54.5,GA,South,South Atlantic
+GA,2011,394293082.356,Georgia,535,9815210,5.5,pills_per_person,40.2,GA,South,South Atlantic
+GA,2012,391329002,Georgia,536,9919945,5.4,death_per_1m,54,GA,South,South Atlantic
+GA,2012,391329002,Georgia,536,9919945,5.4,pills_per_person,39.4,GA,South,South Atlantic
+GA,2013,378345609,Georgia,530,9992167,5.3,death_per_1m,53,GA,South,South Atlantic
+GA,2013,378345609,Georgia,530,9992167,5.3,pills_per_person,37.9,GA,South,South Atlantic
+GA,2014,370804935,Georgia,710,10097343,7.0,death_per_1m,70.3,GA,South,South Atlantic
+GA,2014,370804935,Georgia,710,10097343,7.0,pills_per_person,36.7,GA,South,South Atlantic
+HI,2006,23832672,Hawaii,54,1309731,4.1,death_per_1m,41.2,HI,West,Pacific
+HI,2006,23832672,Hawaii,54,1309731,4.1,pills_per_person,18.2,HI,West,Pacific
+HI,2007,26378691,Hawaii,78,1315675,5.9,death_per_1m,59.3,HI,West,Pacific
+HI,2007,26378691,Hawaii,78,1315675,5.9,pills_per_person,20,HI,West,Pacific
+HI,2008,29218744.5,Hawaii,53,1332213,4.0,death_per_1m,39.8,HI,West,Pacific
+HI,2008,29218744.5,Hawaii,53,1332213,4.0,pills_per_person,21.9,HI,West,Pacific
+HI,2009,31444270,Hawaii,57,1346717,4.2,death_per_1m,42.3,HI,West,Pacific
+HI,2009,31444270,Hawaii,57,1346717,4.2,pills_per_person,23.3,HI,West,Pacific
+HI,2010,33795604,Hawaii,74,1360301,5.4,death_per_1m,54.4,HI,West,Pacific
+HI,2010,33795604,Hawaii,74,1360301,5.4,pills_per_person,24.8,HI,West,Pacific
+HI,2011,35500192,Hawaii,77,1374810,5.6,death_per_1m,56,HI,West,Pacific
+HI,2011,35500192,Hawaii,77,1374810,5.6,pills_per_person,25.8,HI,West,Pacific
+HI,2012,36141611,Hawaii,62,1392313,4.5,death_per_1m,44.5,HI,West,Pacific
+HI,2012,36141611,Hawaii,62,1392313,4.5,pills_per_person,26,HI,West,Pacific
+HI,2013,35366062,Hawaii,69,1404054,4.9,death_per_1m,49.1,HI,West,Pacific
+HI,2013,35366062,Hawaii,69,1404054,4.9,pills_per_person,25.2,HI,West,Pacific
+HI,2014,33711330,Hawaii,59,1419561,4.2,death_per_1m,41.6,HI,West,Pacific
+HI,2014,33711330,Hawaii,59,1419561,4.2,pills_per_person,23.7,HI,West,Pacific
+IA,2006,58792258,Iowa,93,2982644,3.1,death_per_1m,31.2,IA,Midwest,West North Central
+IA,2006,58792258,Iowa,93,2982644,3.1,pills_per_person,19.7,IA,Midwest,West North Central
+IA,2007,66247711,Iowa,107,2999212,3.6,death_per_1m,35.7,IA,Midwest,West North Central
+IA,2007,66247711,Iowa,107,2999212,3.6,pills_per_person,22.1,IA,Midwest,West North Central
+IA,2008,74820620,Iowa,127,3016734,4.2,death_per_1m,42.1,IA,Midwest,West North Central
+IA,2008,74820620,Iowa,127,3016734,4.2,pills_per_person,24.8,IA,Midwest,West North Central
+IA,2009,81173728.5,Iowa,141,3032870,4.6,death_per_1m,46.5,IA,Midwest,West North Central
+IA,2009,81173728.5,Iowa,141,3032870,4.6,pills_per_person,26.8,IA,Midwest,West North Central
+IA,2010,88327362,Iowa,147,3046355,4.8,death_per_1m,48.3,IA,Midwest,West North Central
+IA,2010,88327362,Iowa,147,3046355,4.8,pills_per_person,29,IA,Midwest,West North Central
+IA,2011,95955296,Iowa,172,3062309,5.6,death_per_1m,56.2,IA,Midwest,West North Central
+IA,2011,95955296,Iowa,172,3062309,5.6,pills_per_person,31.3,IA,Midwest,West North Central
+IA,2012,97593539,Iowa,171,3074186,5.6,death_per_1m,55.6,IA,Midwest,West North Central
+IA,2012,97593539,Iowa,171,3074186,5.6,pills_per_person,31.7,IA,Midwest,West North Central
+IA,2013,94584020,Iowa,179,3090416,5.8,death_per_1m,57.9,IA,Midwest,West North Central
+IA,2013,94584020,Iowa,179,3090416,5.8,pills_per_person,30.6,IA,Midwest,West North Central
+IA,2014,94058585,Iowa,158,3107126,5.1,death_per_1m,50.9,IA,Midwest,West North Central
+IA,2014,94058585,Iowa,158,3107126,5.1,pills_per_person,30.3,IA,Midwest,West North Central
+ID,2006,41598464,Idaho,70,1468669,4.8,death_per_1m,47.7,ID,West,Mountain
+ID,2006,41598464,Idaho,70,1468669,4.8,pills_per_person,28.3,ID,West,Mountain
+ID,2007,43804460,Idaho,62,1505105,4.1,death_per_1m,41.2,ID,West,Mountain
+ID,2007,43804460,Idaho,62,1505105,4.1,pills_per_person,29.1,ID,West,Mountain
+ID,2008,47813822,Idaho,72,1534320,4.7,death_per_1m,46.9,ID,West,Mountain
+ID,2008,47813822,Idaho,72,1534320,4.7,pills_per_person,31.2,ID,West,Mountain
+ID,2009,52454987,Idaho,62,1554439,4.0,death_per_1m,39.9,ID,West,Mountain
+ID,2009,52454987,Idaho,62,1554439,4.0,pills_per_person,33.7,ID,West,Mountain
+ID,2010,60641282,Idaho,79,1567582,5.0,death_per_1m,50.4,ID,West,Mountain
+ID,2010,60641282,Idaho,79,1567582,5.0,pills_per_person,38.7,ID,West,Mountain
+ID,2011,67532438,Idaho,77,1584985,4.9,death_per_1m,48.6,ID,West,Mountain
+ID,2011,67532438,Idaho,77,1584985,4.9,pills_per_person,42.6,ID,West,Mountain
+ID,2012,71095107,Idaho,59,1595728,3.7,death_per_1m,37,ID,West,Mountain
+ID,2012,71095107,Idaho,59,1595728,3.7,pills_per_person,44.6,ID,West,Mountain
+ID,2013,71307947,Idaho,77,1612136,4.8,death_per_1m,47.8,ID,West,Mountain
+ID,2013,71307947,Idaho,77,1612136,4.8,pills_per_person,44.2,ID,West,Mountain
+ID,2014,71333955,Idaho,78,1634464,4.8,death_per_1m,47.7,ID,West,Mountain
+ID,2014,71333955,Idaho,78,1634464,4.8,pills_per_person,43.6,ID,West,Mountain
+IL,2006,210775578,Illinois,870,12643955,6.9,death_per_1m,68.8,IL,Midwest,East North Central
+IL,2006,210775578,Illinois,870,12643955,6.9,pills_per_person,16.7,IL,Midwest,East North Central
+IL,2007,223525559,Illinois,691,12695866,5.4,death_per_1m,54.4,IL,Midwest,East North Central
+IL,2007,223525559,Illinois,691,12695866,5.4,pills_per_person,17.6,IL,Midwest,East North Central
+IL,2008,241686059,Illinois,846,12747038,6.6,death_per_1m,66.4,IL,Midwest,East North Central
+IL,2008,241686059,Illinois,846,12747038,6.6,pills_per_person,19,IL,Midwest,East North Central
+IL,2009,264267534,Illinois,886,12796778,6.9,death_per_1m,69.2,IL,Midwest,East North Central
+IL,2009,264267534,Illinois,886,12796778,6.9,pills_per_person,20.7,IL,Midwest,East North Central
+IL,2010,302800661,Illinois,867,12830632,6.8,death_per_1m,67.6,IL,Midwest,East North Central
+IL,2010,302800661,Illinois,867,12830632,6.8,pills_per_person,23.6,IL,Midwest,East North Central
+IL,2011,340323698,Illinois,907,12869257,7.0,death_per_1m,70.5,IL,Midwest,East North Central
+IL,2011,340323698,Illinois,907,12869257,7.0,pills_per_person,26.4,IL,Midwest,East North Central
+IL,2012,351684295,Illinois,1151,12875255,8.9,death_per_1m,89.4,IL,Midwest,East North Central
+IL,2012,351684295,Illinois,1151,12875255,8.9,pills_per_person,27.3,IL,Midwest,East North Central
+IL,2013,360083823,Illinois,1072,12882135,8.3,death_per_1m,83.2,IL,Midwest,East North Central
+IL,2013,360083823,Illinois,1072,12882135,8.3,pills_per_person,28,IL,Midwest,East North Central
+IL,2014,352071174,Illinois,1205,12880580,9.4,death_per_1m,93.6,IL,Midwest,East North Central
+IL,2014,352071174,Illinois,1205,12880580,9.4,pills_per_person,27.3,IL,Midwest,East North Central
+IN,2006,205966206,Indiana,176,6332669,2.8,death_per_1m,27.8,IN,Midwest,East North Central
+IN,2006,205966206,Indiana,176,6332669,2.8,pills_per_person,32.5,IN,Midwest,East North Central
+IN,2007,249400390,Indiana,241,6379599,3.8,death_per_1m,37.8,IN,Midwest,East North Central
+IN,2007,249400390,Indiana,241,6379599,3.8,pills_per_person,39.1,IN,Midwest,East North Central
+IN,2008,278970088,Indiana,311,6424806,4.8,death_per_1m,48.4,IN,Midwest,East North Central
+IN,2008,278970088,Indiana,311,6424806,4.8,pills_per_person,43.4,IN,Midwest,East North Central
+IN,2009,307199923,Indiana,319,6459325,4.9,death_per_1m,49.4,IN,Midwest,East North Central
+IN,2009,307199923,Indiana,319,6459325,4.9,pills_per_person,47.6,IN,Midwest,East North Central
+IN,2010,327210828,Indiana,289,6483802,4.5,death_per_1m,44.6,IN,Midwest,East North Central
+IN,2010,327210828,Indiana,289,6483802,4.5,pills_per_person,50.5,IN,Midwest,East North Central
+IN,2011,364612762,Indiana,356,6516922,5.5,death_per_1m,54.6,IN,Midwest,East North Central
+IN,2011,364612762,Indiana,356,6516922,5.5,pills_per_person,55.9,IN,Midwest,East North Central
+IN,2012,381701381,Indiana,375,6537334,5.7,death_per_1m,57.4,IN,Midwest,East North Central
+IN,2012,381701381,Indiana,375,6537334,5.7,pills_per_person,58.4,IN,Midwest,East North Central
+IN,2013,365671954,Indiana,360,6570902,5.5,death_per_1m,54.8,IN,Midwest,East North Central
+IN,2013,365671954,Indiana,360,6570902,5.5,pills_per_person,55.7,IN,Midwest,East North Central
+IN,2014,320698785,Indiana,462,6596855,7.0,death_per_1m,70,IN,Midwest,East North Central
+IN,2014,320698785,Indiana,462,6596855,7.0,pills_per_person,48.6,IN,Midwest,East North Central
+KS,2006,76026094,Kansas,120,2762931,4.3,death_per_1m,43.4,KS,Midwest,West North Central
+KS,2006,76026094,Kansas,120,2762931,4.3,pills_per_person,27.5,KS,Midwest,West North Central
+KS,2007,87404040,Kansas,117,2783785,4.2,death_per_1m,42,KS,Midwest,West North Central
+KS,2007,87404040,Kansas,117,2783785,4.2,pills_per_person,31.4,KS,Midwest,West North Central
+KS,2008,95879803,Kansas,96,2808076,3.4,death_per_1m,34.2,KS,Midwest,West North Central
+KS,2008,95879803,Kansas,96,2808076,3.4,pills_per_person,34.1,KS,Midwest,West North Central
+KS,2009,102848806,Kansas,148,2832704,5.2,death_per_1m,52.2,KS,Midwest,West North Central
+KS,2009,102848806,Kansas,148,2832704,5.2,pills_per_person,36.3,KS,Midwest,West North Central
+KS,2010,110298256,Kansas,104,2853118,3.6,death_per_1m,36.5,KS,Midwest,West North Central
+KS,2010,110298256,Kansas,104,2853118,3.6,pills_per_person,38.7,KS,Midwest,West North Central
+KS,2011,121064738,Kansas,118,2871238,4.1,death_per_1m,41.1,KS,Midwest,West North Central
+KS,2011,121064738,Kansas,118,2871238,4.1,pills_per_person,42.2,KS,Midwest,West North Central
+KS,2012,126016314,Kansas,171,2885905,5.9,death_per_1m,59.3,KS,Midwest,West North Central
+KS,2012,126016314,Kansas,171,2885905,5.9,pills_per_person,43.7,KS,Midwest,West North Central
+KS,2013,122702325,Kansas,158,2893957,5.5,death_per_1m,54.6,KS,Midwest,West North Central
+KS,2013,122702325,Kansas,158,2893957,5.5,pills_per_person,42.4,KS,Midwest,West North Central
+KS,2014,123966390,Kansas,173,2904021,6.0,death_per_1m,59.6,KS,Midwest,West North Central
+KS,2014,123966390,Kansas,173,2904021,6.0,pills_per_person,42.7,KS,Midwest,West North Central
+KY,2006,203903680,Kentucky,331,4219239,7.8,death_per_1m,78.5,KY,South,East South Central
+KY,2006,203903680,Kentucky,331,4219239,7.8,pills_per_person,48.3,KY,South,East South Central
+KY,2007,229367807,Kentucky,343,4256672,8.1,death_per_1m,80.6,KY,South,East South Central
+KY,2007,229367807,Kentucky,343,4256672,8.1,pills_per_person,53.9,KY,South,East South Central
+KY,2008,251513766,Kentucky,365,4289878,8.5,death_per_1m,85.1,KY,South,East South Central
+KY,2008,251513766,Kentucky,365,4289878,8.5,pills_per_person,58.6,KY,South,East South Central
+KY,2009,274176747,Kentucky,434,4317074,10.1,death_per_1m,100.5,KY,South,East South Central
+KY,2009,274176747,Kentucky,434,4317074,10.1,pills_per_person,63.5,KY,South,East South Central
+KY,2010,300325407,Kentucky,591,4339367,13.6,death_per_1m,136.2,KY,South,East South Central
+KY,2010,300325407,Kentucky,591,4339367,13.6,pills_per_person,69.2,KY,South,East South Central
+KY,2011,328160273,Kentucky,669,4369356,15.3,death_per_1m,153.1,KY,South,East South Central
+KY,2011,328160273,Kentucky,669,4369356,15.3,pills_per_person,75.1,KY,South,East South Central
+KY,2012,313122377.2,Kentucky,673,4380415,15.4,death_per_1m,153.6,KY,South,East South Central
+KY,2012,313122377.2,Kentucky,673,4380415,15.4,pills_per_person,71.5,KY,South,East South Central
+KY,2013,277295190,Kentucky,665,4395295,15.1,death_per_1m,151.3,KY,South,East South Central
+KY,2013,277295190,Kentucky,665,4395295,15.1,pills_per_person,63.1,KY,South,East South Central
+KY,2014,273055541,Kentucky,729,4413457,16.5,death_per_1m,165.2,KY,South,East South Central
+KY,2014,273055541,Kentucky,729,4413457,16.5,pills_per_person,61.9,KY,South,East South Central
+LA,2006,172350483,Louisiana,194,4302665,4.5,death_per_1m,45.1,LA,South,West South Central
+LA,2006,172350483,Louisiana,194,4302665,4.5,pills_per_person,40.1,LA,South,West South Central
+LA,2007,179922747,Louisiana,212,4375581,4.8,death_per_1m,48.5,LA,South,West South Central
+LA,2007,179922747,Louisiana,212,4375581,4.8,pills_per_person,41.1,LA,South,West South Central
+LA,2008,190715427,Louisiana,130,4435586,2.9,death_per_1m,29.3,LA,South,West South Central
+LA,2008,190715427,Louisiana,130,4435586,2.9,pills_per_person,43,LA,South,West South Central
+LA,2009,193417920,Louisiana,122,4491648,2.7,death_per_1m,27.2,LA,South,West South Central
+LA,2009,193417920,Louisiana,122,4491648,2.7,pills_per_person,43.1,LA,South,West South Central
+LA,2010,195305767,Louisiana,123,4533372,2.7,death_per_1m,27.1,LA,South,West South Central
+LA,2010,195305767,Louisiana,123,4533372,2.7,pills_per_person,43.1,LA,South,West South Central
+LA,2011,217250046,Louisiana,116,4574836,2.5,death_per_1m,25.4,LA,South,West South Central
+LA,2011,217250046,Louisiana,116,4574836,2.5,pills_per_person,47.5,LA,South,West South Central
+LA,2012,224564294,Louisiana,169,4601893,3.7,death_per_1m,36.7,LA,South,West South Central
+LA,2012,224564294,Louisiana,169,4601893,3.7,pills_per_person,48.8,LA,South,West South Central
+LA,2013,220977052,Louisiana,265,4625470,5.7,death_per_1m,57.3,LA,South,West South Central
+LA,2013,220977052,Louisiana,265,4625470,5.7,pills_per_person,47.8,LA,South,West South Central
+LA,2014,216715343,Louisiana,260,4649676,5.6,death_per_1m,55.9,LA,South,West South Central
+LA,2014,216715343,Louisiana,260,4649676,5.6,pills_per_person,46.6,LA,South,West South Central
+MA,2006,148847000,Massachusetts,659,6410084,10.3,death_per_1m,102.8,MA,Northeast,New England
+MA,2006,148847000,Massachusetts,659,6410084,10.3,pills_per_person,23.2,MA,Northeast,New England
+MA,2007,168987102,Massachusetts,649,6431559,10.1,death_per_1m,100.9,MA,Northeast,New England
+MA,2007,168987102,Massachusetts,649,6431559,10.1,pills_per_person,26.3,MA,Northeast,New England
+MA,2008,175833637,Massachusetts,596,6468967,9.2,death_per_1m,92.1,MA,Northeast,New England
+MA,2008,175833637,Massachusetts,596,6468967,9.2,pills_per_person,27.2,MA,Northeast,New England
+MA,2009,184431025,Massachusetts,622,6517613,9.5,death_per_1m,95.4,MA,Northeast,New England
+MA,2009,184431025,Massachusetts,622,6517613,9.5,pills_per_person,28.3,MA,Northeast,New England
+MA,2010,186287707,Massachusetts,549,6547629,8.4,death_per_1m,83.8,MA,Northeast,New England
+MA,2010,186287707,Massachusetts,549,6547629,8.4,pills_per_person,28.5,MA,Northeast,New England
+MA,2011,191664399,Massachusetts,655,6587536,9.9,death_per_1m,99.4,MA,Northeast,New England
+MA,2011,191664399,Massachusetts,655,6587536,9.9,pills_per_person,29.1,MA,Northeast,New England
+MA,2012,190493733,Massachusetts,691,6646144,10.4,death_per_1m,104,MA,Northeast,New England
+MA,2012,190493733,Massachusetts,691,6646144,10.4,pills_per_person,28.7,MA,Northeast,New England
+MA,2013,183575552,Massachusetts,888,6692824,13.3,death_per_1m,132.7,MA,Northeast,New England
+MA,2013,183575552,Massachusetts,888,6692824,13.3,pills_per_person,27.4,MA,Northeast,New England
+MA,2014,174608380,Massachusetts,1140,6745408,16.9,death_per_1m,169,MA,Northeast,New England
+MA,2014,174608380,Massachusetts,1140,6745408,16.9,pills_per_person,25.9,MA,Northeast,New England
+MD,2006,130931618,Maryland,565,5627367,10.0,death_per_1m,100.4,MD,South,South Atlantic
+MD,2006,130931618,Maryland,565,5627367,10.0,pills_per_person,23.3,MD,South,South Atlantic
+MD,2007,140017256,Maryland,600,5653408,10.6,death_per_1m,106.1,MD,South,South Atlantic
+MD,2007,140017256,Maryland,600,5653408,10.6,pills_per_person,24.8,MD,South,South Atlantic
+MD,2008,152534216,Maryland,513,5684965,9.0,death_per_1m,90.2,MD,South,South Atlantic
+MD,2008,152534216,Maryland,513,5684965,9.0,pills_per_person,26.8,MD,South,South Atlantic
+MD,2009,169277246.5003,Maryland,586,5730388,10.2,death_per_1m,102.3,MD,South,South Atlantic
+MD,2009,169277246.5003,Maryland,586,5730388,10.2,pills_per_person,29.5,MD,South,South Atlantic
+MD,2010,184086219,Maryland,509,5773552,8.8,death_per_1m,88.2,MD,South,South Atlantic
+MD,2010,184086219,Maryland,509,5773552,8.8,pills_per_person,31.9,MD,South,South Atlantic
+MD,2011,193665728.7,Maryland,546,5828289,9.4,death_per_1m,93.7,MD,South,South Atlantic
+MD,2011,193665728.7,Maryland,546,5828289,9.4,pills_per_person,33.2,MD,South,South Atlantic
+MD,2012,185566733,Maryland,657,5884563,11.2,death_per_1m,111.6,MD,South,South Atlantic
+MD,2012,185566733,Maryland,657,5884563,11.2,pills_per_person,31.5,MD,South,South Atlantic
+MD,2013,175114479,Maryland,749,5928814,12.6,death_per_1m,126.3,MD,South,South Atlantic
+MD,2013,175114479,Maryland,749,5928814,12.6,pills_per_person,29.5,MD,South,South Atlantic
+MD,2014,171099390,Maryland,921,5976407,15.4,death_per_1m,154.1,MD,South,South Atlantic
+MD,2014,171099390,Maryland,921,5976407,15.4,pills_per_person,28.6,MD,South,South Atlantic
+ME,2006,47720175,Maine,93,1323619,7.0,death_per_1m,70.3,ME,Northeast,New England
+ME,2006,47720175,Maine,93,1323619,7.0,pills_per_person,36.1,ME,Northeast,New England
+ME,2007,52263772,Maine,102,1327040,7.7,death_per_1m,76.9,ME,Northeast,New England
+ME,2007,52263772,Maine,102,1327040,7.7,pills_per_person,39.4,ME,Northeast,New England
+ME,2008,54726830,Maine,105,1330509,7.9,death_per_1m,78.9,ME,Northeast,New England
+ME,2008,54726830,Maine,105,1330509,7.9,pills_per_person,41.1,ME,Northeast,New England
+ME,2009,56312380,Maine,114,1329590,8.6,death_per_1m,85.7,ME,Northeast,New England
+ME,2009,56312380,Maine,114,1329590,8.6,pills_per_person,42.4,ME,Northeast,New England
+ME,2010,60688560,Maine,90,1328361,6.8,death_per_1m,67.8,ME,Northeast,New England
+ME,2010,60688560,Maine,90,1328361,6.8,pills_per_person,45.7,ME,Northeast,New England
+ME,2011,63308120,Maine,85,1328188,6.4,death_per_1m,64,ME,Northeast,New England
+ME,2011,63308120,Maine,85,1328188,6.4,pills_per_person,47.7,ME,Northeast,New England
+ME,2012,61295410,Maine,100,1329192,7.5,death_per_1m,75.2,ME,Northeast,New England
+ME,2012,61295410,Maine,100,1329192,7.5,pills_per_person,46.1,ME,Northeast,New England
+ME,2013,56211730,Maine,125,1328302,9.4,death_per_1m,94.1,ME,Northeast,New England
+ME,2013,56211730,Maine,125,1328302,9.4,pills_per_person,42.3,ME,Northeast,New England
+ME,2014,53907880,Maine,171,1330089,12.9,death_per_1m,128.6,ME,Northeast,New England
+ME,2014,53907880,Maine,171,1330089,12.9,pills_per_person,40.5,ME,Northeast,New England
+MI,2006,286235407,Michigan,594,10036081,5.9,death_per_1m,59.2,MI,Midwest,East North Central
+MI,2006,286235407,Michigan,594,10036081,5.9,pills_per_person,28.5,MI,Midwest,East North Central
+MI,2007,335107578,Michigan,506,10001284,5.1,death_per_1m,50.6,MI,Midwest,East North Central
+MI,2007,335107578,Michigan,506,10001284,5.1,pills_per_person,33.5,MI,Midwest,East North Central
+MI,2008,369724117,Michigan,643,9946889,6.5,death_per_1m,64.6,MI,Midwest,East North Central
+MI,2008,369724117,Michigan,643,9946889,6.5,pills_per_person,37.2,MI,Midwest,East North Central
+MI,2009,405519809,Michigan,736,9901591,7.4,death_per_1m,74.3,MI,Midwest,East North Central
+MI,2009,405519809,Michigan,736,9901591,7.4,pills_per_person,41,MI,Midwest,East North Central
+MI,2010,444573446,Michigan,695,9883640,7.0,death_per_1m,70.3,MI,Midwest,East North Central
+MI,2010,444573446,Michigan,695,9883640,7.0,pills_per_person,45,MI,Midwest,East North Central
+MI,2011,494734029,Michigan,714,9876187,7.2,death_per_1m,72.3,MI,Midwest,East North Central
+MI,2011,494734029,Michigan,714,9876187,7.2,pills_per_person,50.1,MI,Midwest,East North Central
+MI,2012,511520251,Michigan,685,9883360,6.9,death_per_1m,69.3,MI,Midwest,East North Central
+MI,2012,511520251,Michigan,685,9883360,6.9,pills_per_person,51.8,MI,Midwest,East North Central
+MI,2013,498711400,Michigan,909,9895622,9.2,death_per_1m,91.9,MI,Midwest,East North Central
+MI,2013,498711400,Michigan,909,9895622,9.2,pills_per_person,50.4,MI,Midwest,East North Central
+MI,2014,495502519,Michigan,1052,9909877,10.6,death_per_1m,106.2,MI,Midwest,East North Central
+MI,2014,495502519,Michigan,1052,9909877,10.6,pills_per_person,50,MI,Midwest,East North Central
+MN,2006,89558743,Minnesota,158,5163555,3.1,death_per_1m,30.6,MN,Midwest,West North Central
+MN,2006,89558743,Minnesota,158,5163555,3.1,pills_per_person,17.3,MN,Midwest,West North Central
+MN,2007,101830966,Minnesota,180,5207203,3.5,death_per_1m,34.6,MN,Midwest,West North Central
+MN,2007,101830966,Minnesota,180,5207203,3.5,pills_per_person,19.6,MN,Midwest,West North Central
+MN,2008,110986208,Minnesota,227,5247018,4.3,death_per_1m,43.3,MN,Midwest,West North Central
+MN,2008,110986208,Minnesota,227,5247018,4.3,pills_per_person,21.2,MN,Midwest,West North Central
+MN,2009,119065740,Minnesota,272,5281203,5.2,death_per_1m,51.5,MN,Midwest,West North Central
+MN,2009,119065740,Minnesota,272,5281203,5.2,pills_per_person,22.5,MN,Midwest,West North Central
+MN,2010,129015319,Minnesota,235,5303925,4.4,death_per_1m,44.3,MN,Midwest,West North Central
+MN,2010,129015319,Minnesota,235,5303925,4.4,pills_per_person,24.3,MN,Midwest,West North Central
+MN,2011,138740531,Minnesota,286,5344861,5.4,death_per_1m,53.5,MN,Midwest,West North Central
+MN,2011,138740531,Minnesota,286,5344861,5.4,pills_per_person,26,MN,Midwest,West North Central
+MN,2012,142406814,Minnesota,290,5379139,5.4,death_per_1m,53.9,MN,Midwest,West North Central
+MN,2012,142406814,Minnesota,290,5379139,5.4,pills_per_person,26.5,MN,Midwest,West North Central
+MN,2013,138374295,Minnesota,305,5420380,5.6,death_per_1m,56.3,MN,Midwest,West North Central
+MN,2013,138374295,Minnesota,305,5420380,5.6,pills_per_person,25.5,MN,Midwest,West North Central
+MN,2014,139209425,Minnesota,318,5457173,5.8,death_per_1m,58.3,MN,Midwest,West North Central
+MN,2014,139209425,Minnesota,318,5457173,5.8,pills_per_person,25.5,MN,Midwest,West North Central
+MO,2006,163222993.331,Missouri,403,5842704,6.9,death_per_1m,69,MO,Midwest,West North Central
+MO,2006,163222993.331,Missouri,403,5842704,6.9,pills_per_person,27.9,MO,Midwest,West North Central
+MO,2007,187562562,Missouri,390,5887612,6.6,death_per_1m,66.2,MO,Midwest,West North Central
+MO,2007,187562562,Missouri,390,5887612,6.6,pills_per_person,31.9,MO,Midwest,West North Central
+MO,2008,208087082,Missouri,475,5923916,8.0,death_per_1m,80.2,MO,Midwest,West North Central
+MO,2008,208087082,Missouri,475,5923916,8.0,pills_per_person,35.1,MO,Midwest,West North Central
+MO,2009,226193711,Missouri,526,5961088,8.8,death_per_1m,88.2,MO,Midwest,West North Central
+MO,2009,226193711,Missouri,526,5961088,8.8,pills_per_person,37.9,MO,Midwest,West North Central
+MO,2010,247996640,Missouri,599,5988927,10.0,death_per_1m,100,MO,Midwest,West North Central
+MO,2010,247996640,Missouri,599,5988927,10.0,pills_per_person,41.4,MO,Midwest,West North Central
+MO,2011,276388474,Missouri,595,6010688,9.9,death_per_1m,99,MO,Midwest,West North Central
+MO,2011,276388474,Missouri,595,6010688,9.9,pills_per_person,46,MO,Midwest,West North Central
+MO,2012,288375377,Missouri,539,6021988,9.0,death_per_1m,89.5,MO,Midwest,West North Central
+MO,2012,288375377,Missouri,539,6021988,9.0,pills_per_person,47.9,MO,Midwest,West North Central
+MO,2013,283104809,Missouri,620,6044171,10.3,death_per_1m,102.6,MO,Midwest,West North Central
+MO,2013,283104809,Missouri,620,6044171,10.3,pills_per_person,46.8,MO,Midwest,West North Central
+MO,2014,285415323,Missouri,696,6063589,11.5,death_per_1m,114.8,MO,Midwest,West North Central
+MO,2014,285415323,Missouri,696,6063589,11.5,pills_per_person,47.1,MO,Midwest,West North Central
+MS,2006,86150239.6,Mississippi,65,2904978,2.2,death_per_1m,22.4,MS,South,East South Central
+MS,2006,86150239.6,Mississippi,65,2904978,2.2,pills_per_person,29.7,MS,South,East South Central
+MS,2007,99025064,Mississippi,95,2928350,3.2,death_per_1m,32.4,MS,South,East South Central
+MS,2007,99025064,Mississippi,95,2928350,3.2,pills_per_person,33.8,MS,South,East South Central
+MS,2008,109689842,Mississippi,106,2947806,3.6,death_per_1m,36,MS,South,East South Central
+MS,2008,109689842,Mississippi,106,2947806,3.6,pills_per_person,37.2,MS,South,East South Central
+MS,2009,120788780,Mississippi,96,2958774,3.2,death_per_1m,32.4,MS,South,East South Central
+MS,2009,120788780,Mississippi,96,2958774,3.2,pills_per_person,40.8,MS,South,East South Central
+MS,2010,132616538,Mississippi,100,2967297,3.4,death_per_1m,33.7,MS,South,East South Central
+MS,2010,132616538,Mississippi,100,2967297,3.4,pills_per_person,44.7,MS,South,East South Central
+MS,2011,148264251,Mississippi,79,2978512,2.7,death_per_1m,26.5,MS,South,East South Central
+MS,2011,148264251,Mississippi,79,2978512,2.7,pills_per_person,49.8,MS,South,East South Central
+MS,2012,154370771,Mississippi,111,2984926,3.7,death_per_1m,37.2,MS,South,East South Central
+MS,2012,154370771,Mississippi,111,2984926,3.7,pills_per_person,51.7,MS,South,East South Central
+MS,2013,150665875,Mississippi,100,2991207,3.3,death_per_1m,33.4,MS,South,East South Central
+MS,2013,150665875,Mississippi,100,2991207,3.3,pills_per_person,50.4,MS,South,East South Central
+MS,2014,144256750,Mississippi,115,2994079,3.8,death_per_1m,38.4,MS,South,East South Central
+MS,2014,144256750,Mississippi,115,2994079,3.8,pills_per_person,48.2,MS,South,East South Central
+MT,2006,28211735,Montana,47,952692,4.9,death_per_1m,49.3,MT,West,Mountain
+MT,2006,28211735,Montana,47,952692,4.9,pills_per_person,29.6,MT,West,Mountain
+MT,2007,28512079,Montana,62,964706,6.4,death_per_1m,64.3,MT,West,Mountain
+MT,2007,28512079,Montana,62,964706,6.4,pills_per_person,29.6,MT,West,Mountain
+MT,2008,31285334,Montana,70,976415,7.2,death_per_1m,71.7,MT,West,Mountain
+MT,2008,31285334,Montana,70,976415,7.2,pills_per_person,32,MT,West,Mountain
+MT,2009,33847708,Montana,89,983982,9.0,death_per_1m,90.4,MT,West,Mountain
+MT,2009,33847708,Montana,89,983982,9.0,pills_per_person,34.4,MT,West,Mountain
+MT,2010,38203070,Montana,54,989415,5.5,death_per_1m,54.6,MT,West,Mountain
+MT,2010,38203070,Montana,54,989415,5.5,pills_per_person,38.6,MT,West,Mountain
+MT,2011,41388020,Montana,63,998199,6.3,death_per_1m,63.1,MT,West,Mountain
+MT,2011,41388020,Montana,63,998199,6.3,pills_per_person,41.5,MT,West,Mountain
+MT,2012,42909030,Montana,51,1005141,5.1,death_per_1m,50.7,MT,West,Mountain
+MT,2012,42909030,Montana,51,1005141,5.1,pills_per_person,42.7,MT,West,Mountain
+MT,2013,41620120,Montana,67,1015165,6.6,death_per_1m,66,MT,West,Mountain
+MT,2013,41620120,Montana,67,1015165,6.6,pills_per_person,41,MT,West,Mountain
+MT,2014,39805720,Montana,53,1023579,5.2,death_per_1m,51.8,MT,West,Mountain
+MT,2014,39805720,Montana,53,1023579,5.2,pills_per_person,38.9,MT,West,Mountain
+NC,2006,276574211.4,North Carolina,696,8917270,7.8,death_per_1m,78.1,NC,South,South Atlantic
+NC,2006,276574211.4,North Carolina,696,8917270,7.8,pills_per_person,31,NC,South,South Atlantic
+NC,2007,313571039,North Carolina,750,9118037,8.2,death_per_1m,82.3,NC,South,South Atlantic
+NC,2007,313571039,North Carolina,750,9118037,8.2,pills_per_person,34.4,NC,South,South Atlantic
+NC,2008,335466539,North Carolina,846,9309449,9.1,death_per_1m,90.9,NC,South,South Atlantic
+NC,2008,335466539,North Carolina,846,9309449,9.1,pills_per_person,36,NC,South,South Atlantic
+NC,2009,370538400,North Carolina,857,9449566,9.1,death_per_1m,90.7,NC,South,South Atlantic
+NC,2009,370538400,North Carolina,857,9449566,9.1,pills_per_person,39.2,NC,South,South Atlantic
+NC,2010,386393514,North Carolina,776,9535483,8.1,death_per_1m,81.4,NC,South,South Atlantic
+NC,2010,386393514,North Carolina,776,9535483,8.1,pills_per_person,40.5,NC,South,South Atlantic
+NC,2011,423350229,North Carolina,822,9656401,8.5,death_per_1m,85.1,NC,South,South Atlantic
+NC,2011,423350229,North Carolina,822,9656401,8.5,pills_per_person,43.8,NC,South,South Atlantic
+NC,2012,436986972,North Carolina,833,9752073,8.5,death_per_1m,85.4,NC,South,South Atlantic
+NC,2012,436986972,North Carolina,833,9752073,8.5,pills_per_person,44.8,NC,South,South Atlantic
+NC,2013,438090988,North Carolina,834,9848060,8.5,death_per_1m,84.7,NC,South,South Atlantic
+NC,2013,438090988,North Carolina,834,9848060,8.5,pills_per_person,44.5,NC,South,South Atlantic
+NC,2014,433494186.5,North Carolina,967,9943964,9.7,death_per_1m,97.2,NC,South,South Atlantic
+NC,2014,433494186.5,North Carolina,967,9943964,9.7,pills_per_person,43.6,NC,South,South Atlantic
+ND,2006,9013820,North Dakota,,,,death_per_1m,,ND,Midwest,West North Central
+ND,2006,9013820,North Dakota,,,,pills_per_person,,ND,Midwest,West North Central
+ND,2007,10546410,North Dakota,17,652822,Unreliable,death_per_1m,26,ND,Midwest,West North Central
+ND,2007,10546410,North Dakota,17,652822,Unreliable,pills_per_person,16.2,ND,Midwest,West North Central
+ND,2008,11643590,North Dakota,32,657569,4.9,death_per_1m,48.7,ND,Midwest,West North Central
+ND,2008,11643590,North Dakota,32,657569,4.9,pills_per_person,17.7,ND,Midwest,West North Central
+ND,2009,12386339,North Dakota,17,664968,Unreliable,death_per_1m,25.6,ND,Midwest,West North Central
+ND,2009,12386339,North Dakota,17,664968,Unreliable,pills_per_person,18.6,ND,Midwest,West North Central
+ND,2010,13086250,North Dakota,18,672591,Unreliable,death_per_1m,26.8,ND,Midwest,West North Central
+ND,2010,13086250,North Dakota,18,672591,Unreliable,pills_per_person,19.5,ND,Midwest,West North Central
+ND,2011,15780583,North Dakota,10,683932,Unreliable,death_per_1m,14.6,ND,Midwest,West North Central
+ND,2011,15780583,North Dakota,10,683932,Unreliable,pills_per_person,23.1,ND,Midwest,West North Central
+ND,2012,16998650,North Dakota,,,,death_per_1m,,ND,Midwest,West North Central
+ND,2012,16998650,North Dakota,,,,pills_per_person,,ND,Midwest,West North Central
+ND,2013,17142530,North Dakota,11,723393,Unreliable,death_per_1m,15.2,ND,Midwest,West North Central
+ND,2013,17142530,North Dakota,11,723393,Unreliable,pills_per_person,23.7,ND,Midwest,West North Central
+ND,2014,17189608,North Dakota,31,739482,4.2,death_per_1m,41.9,ND,Midwest,West North Central
+ND,2014,17189608,North Dakota,31,739482,4.2,pills_per_person,23.2,ND,Midwest,West North Central
+NE,2006,34899520,Nebraska,34,1772693,1.9,death_per_1m,19.2,NE,Midwest,West North Central
+NE,2006,34899520,Nebraska,34,1772693,1.9,pills_per_person,19.7,NE,Midwest,West North Central
+NE,2007,37837913,Nebraska,39,1783440,2.2,death_per_1m,21.9,NE,Midwest,West North Central
+NE,2007,37837913,Nebraska,39,1783440,2.2,pills_per_person,21.2,NE,Midwest,West North Central
+NE,2008,41304560,Nebraska,29,1796378,1.6,death_per_1m,16.1,NE,Midwest,West North Central
+NE,2008,41304560,Nebraska,29,1796378,1.6,pills_per_person,23,NE,Midwest,West North Central
+NE,2009,44508730,Nebraska,66,1812683,3.6,death_per_1m,36.4,NE,Midwest,West North Central
+NE,2009,44508730,Nebraska,66,1812683,3.6,pills_per_person,24.6,NE,Midwest,West North Central
+NE,2010,47629857,Nebraska,58,1826341,3.2,death_per_1m,31.8,NE,Midwest,West North Central
+NE,2010,47629857,Nebraska,58,1826341,3.2,pills_per_person,26.1,NE,Midwest,West North Central
+NE,2011,52238869,Nebraska,53,1842641,2.9,death_per_1m,28.8,NE,Midwest,West North Central
+NE,2011,52238869,Nebraska,53,1842641,2.9,pills_per_person,28.3,NE,Midwest,West North Central
+NE,2012,53935854,Nebraska,53,1855525,2.9,death_per_1m,28.6,NE,Midwest,West North Central
+NE,2012,53935854,Nebraska,53,1855525,2.9,pills_per_person,29.1,NE,Midwest,West North Central
+NE,2013,53406817,Nebraska,41,1868516,2.2,death_per_1m,21.9,NE,Midwest,West North Central
+NE,2013,53406817,Nebraska,41,1868516,2.2,pills_per_person,28.6,NE,Midwest,West North Central
+NE,2014,53652535,Nebraska,56,1881503,3.0,death_per_1m,29.8,NE,Midwest,West North Central
+NE,2014,53652535,Nebraska,56,1881503,3.0,pills_per_person,28.5,NE,Midwest,West North Central
+NH,2006,31329060,New Hampshire,104,1308389,7.9,death_per_1m,79.5,NH,Northeast,New England
+NH,2006,31329060,New Hampshire,104,1308389,7.9,pills_per_person,23.9,NH,Northeast,New England
+NH,2007,36039080,New Hampshire,145,1312540,11.0,death_per_1m,110.5,NH,Northeast,New England
+NH,2007,36039080,New Hampshire,145,1312540,11.0,pills_per_person,27.5,NH,Northeast,New England
+NH,2008,38521770,New Hampshire,94,1315906,7.1,death_per_1m,71.4,NH,Northeast,New England
+NH,2008,38521770,New Hampshire,94,1315906,7.1,pills_per_person,29.3,NH,Northeast,New England
+NH,2009,41700595,New Hampshire,126,1316102,9.6,death_per_1m,95.7,NH,Northeast,New England
+NH,2009,41700595,New Hampshire,126,1316102,9.6,pills_per_person,31.7,NH,Northeast,New England
+NH,2010,43260255,New Hampshire,116,1316470,8.8,death_per_1m,88.1,NH,Northeast,New England
+NH,2010,43260255,New Hampshire,116,1316470,8.8,pills_per_person,32.9,NH,Northeast,New England
+NH,2011,44949856,New Hampshire,154,1318194,11.7,death_per_1m,116.8,NH,Northeast,New England
+NH,2011,44949856,New Hampshire,154,1318194,11.7,pills_per_person,34.1,NH,Northeast,New England
+NH,2012,44554638,New Hampshire,133,1320718,10.1,death_per_1m,100.7,NH,Northeast,New England
+NH,2012,44554638,New Hampshire,133,1320718,10.1,pills_per_person,33.7,NH,Northeast,New England
+NH,2013,42792460,New Hampshire,157,1323459,11.9,death_per_1m,118.6,NH,Northeast,New England
+NH,2013,42792460,New Hampshire,157,1323459,11.9,pills_per_person,32.3,NH,Northeast,New England
+NH,2014,42500430,New Hampshire,297,1326813,22.4,death_per_1m,223.8,NH,Northeast,New England
+NH,2014,42500430,New Hampshire,297,1326813,22.4,pills_per_person,32,NH,Northeast,New England
+NJ,2006,165728857,New Jersey,372,8661679,4.3,death_per_1m,42.9,NJ,Northeast,Middle Atlantic
+NJ,2006,165728857,New Jersey,372,8661679,4.3,pills_per_person,19.1,NJ,Northeast,Middle Atlantic
+NJ,2007,193522582,New Jersey,339,8677885,3.9,death_per_1m,39.1,NJ,Northeast,Middle Atlantic
+NJ,2007,193522582,New Jersey,339,8677885,3.9,pills_per_person,22.3,NJ,Northeast,Middle Atlantic
+NJ,2008,217978320.5,New Jersey,331,8711090,3.8,death_per_1m,38,NJ,Northeast,Middle Atlantic
+NJ,2008,217978320.5,New Jersey,331,8711090,3.8,pills_per_person,25,NJ,Northeast,Middle Atlantic
+NJ,2009,217847093,New Jersey,55,8755602,0.6,death_per_1m,6.3,NJ,Northeast,Middle Atlantic
+NJ,2009,217847093,New Jersey,55,8755602,0.6,pills_per_person,24.9,NJ,Northeast,Middle Atlantic
+NJ,2010,231900866,New Jersey,373,8791894,4.2,death_per_1m,42.4,NJ,Northeast,Middle Atlantic
+NJ,2010,231900866,New Jersey,373,8791894,4.2,pills_per_person,26.4,NJ,Northeast,Middle Atlantic
+NJ,2011,251361597,New Jersey,454,8821155,5.1,death_per_1m,51.5,NJ,Northeast,Middle Atlantic
+NJ,2011,251361597,New Jersey,454,8821155,5.1,pills_per_person,28.5,NJ,Northeast,Middle Atlantic
+NJ,2012,240041607,New Jersey,602,8864590,6.8,death_per_1m,67.9,NJ,Northeast,Middle Atlantic
+NJ,2012,240041607,New Jersey,602,8864590,6.8,pills_per_person,27.1,NJ,Northeast,Middle Atlantic
+NJ,2013,231098198,New Jersey,675,8899339,7.6,death_per_1m,75.8,NJ,Northeast,Middle Atlantic
+NJ,2013,231098198,New Jersey,675,8899339,7.6,pills_per_person,26,NJ,Northeast,Middle Atlantic
+NJ,2014,227090929,New Jersey,728,8938175,8.1,death_per_1m,81.4,NJ,Northeast,Middle Atlantic
+NJ,2014,227090929,New Jersey,728,8938175,8.1,pills_per_person,25.4,NJ,Northeast,Middle Atlantic
+NM,2006,53123842,New Mexico,243,1962137,12.4,death_per_1m,123.8,NM,West,Mountain
+NM,2006,53123842,New Mexico,243,1962137,12.4,pills_per_person,27.1,NM,West,Mountain
+NM,2007,60605359,New Mexico,266,1990070,13.4,death_per_1m,133.7,NM,West,Mountain
+NM,2007,60605359,New Mexico,266,1990070,13.4,pills_per_person,30.5,NM,West,Mountain
+NM,2008,67929898,New Mexico,324,2010662,16.1,death_per_1m,161.1,NM,West,Mountain
+NM,2008,67929898,New Mexico,324,2010662,16.1,pills_per_person,33.8,NM,West,Mountain
+NM,2009,75906863,New Mexico,200,2036802,9.8,death_per_1m,98.2,NM,West,Mountain
+NM,2009,75906863,New Mexico,200,2036802,9.8,pills_per_person,37.3,NM,West,Mountain
+NM,2010,82291069,New Mexico,191,2059179,9.3,death_per_1m,92.8,NM,West,Mountain
+NM,2010,82291069,New Mexico,191,2059179,9.3,pills_per_person,40,NM,West,Mountain
+NM,2011,87152047,New Mexico,243,2082224,11.7,death_per_1m,116.7,NM,West,Mountain
+NM,2011,87152047,New Mexico,243,2082224,11.7,pills_per_person,41.9,NM,West,Mountain
+NM,2012,83250261,New Mexico,319,2085538,15.3,death_per_1m,153,NM,West,Mountain
+NM,2012,83250261,New Mexico,319,2085538,15.3,pills_per_person,39.9,NM,West,Mountain
+NM,2013,73758923,New Mexico,322,2085287,15.4,death_per_1m,154.4,NM,West,Mountain
+NM,2013,73758923,New Mexico,322,2085287,15.4,pills_per_person,35.4,NM,West,Mountain
+NM,2014,74151872,New Mexico,402,2085572,19.3,death_per_1m,192.8,NM,West,Mountain
+NM,2014,74151872,New Mexico,402,2085572,19.3,pills_per_person,35.6,NM,West,Mountain
+NV,2006,110716934,Nevada,343,2522658,13.6,death_per_1m,136,NV,West,Mountain
+NV,2006,110716934,Nevada,343,2522658,13.6,pills_per_person,43.9,NV,West,Mountain
+NV,2007,122141753,Nevada,376,2601072,14.5,death_per_1m,144.6,NV,West,Mountain
+NV,2007,122141753,Nevada,376,2601072,14.5,pills_per_person,47,NV,West,Mountain
+NV,2008,132138432,Nevada,397,2653630,15.0,death_per_1m,149.6,NV,West,Mountain
+NV,2008,132138432,Nevada,397,2653630,15.0,pills_per_person,49.8,NV,West,Mountain
+NV,2009,141981607,Nevada,439,2684665,16.4,death_per_1m,163.5,NV,West,Mountain
+NV,2009,141981607,Nevada,439,2684665,16.4,pills_per_person,52.9,NV,West,Mountain
+NV,2010,154311868,Nevada,439,2700551,16.3,death_per_1m,162.6,NV,West,Mountain
+NV,2010,154311868,Nevada,439,2700551,16.3,pills_per_person,57.1,NV,West,Mountain
+NV,2011,166159620,Nevada,461,2723322,16.9,death_per_1m,169.3,NV,West,Mountain
+NV,2011,166159620,Nevada,461,2723322,16.9,pills_per_person,61,NV,West,Mountain
+NV,2012,159627195,Nevada,446,2758931,16.2,death_per_1m,161.7,NV,West,Mountain
+NV,2012,159627195,Nevada,446,2758931,16.2,pills_per_person,57.9,NV,West,Mountain
+NV,2013,149890435,Nevada,398,2790136,14.3,death_per_1m,142.6,NV,West,Mountain
+NV,2013,149890435,Nevada,398,2790136,14.3,pills_per_person,53.7,NV,West,Mountain
+NV,2014,160875924,Nevada,375,2839099,13.2,death_per_1m,132.1,NV,West,Mountain
+NV,2014,160875924,Nevada,375,2839099,13.2,pills_per_person,56.7,NV,West,Mountain
+NY,2006,368980683,New York,1010,19104631,5.3,death_per_1m,52.9,NY,Northeast,Middle Atlantic
+NY,2006,368980683,New York,1010,19104631,5.3,pills_per_person,19.3,NY,Northeast,Middle Atlantic
+NY,2007,420345555,New York,1029,19132335,5.4,death_per_1m,53.8,NY,Northeast,Middle Atlantic
+NY,2007,420345555,New York,1029,19132335,5.4,pills_per_person,22,NY,Northeast,Middle Atlantic
+NY,2008,455541510,New York,1116,19212436,5.8,death_per_1m,58.1,NY,Northeast,Middle Atlantic
+NY,2008,455541510,New York,1116,19212436,5.8,pills_per_person,23.7,NY,Northeast,Middle Atlantic
+NY,2009,489826089.5,New York,1058,19307066,5.5,death_per_1m,54.8,NY,Northeast,Middle Atlantic
+NY,2009,489826089.5,New York,1058,19307066,5.5,pills_per_person,25.4,NY,Northeast,Middle Atlantic
+NY,2010,517716586,New York,1074,19378102,5.5,death_per_1m,55.4,NY,Northeast,Middle Atlantic
+NY,2010,517716586,New York,1074,19378102,5.5,pills_per_person,26.7,NY,Northeast,Middle Atlantic
+NY,2011,549151835.8,New York,1356,19465197,7.0,death_per_1m,69.7,NY,Northeast,Middle Atlantic
+NY,2011,549151835.8,New York,1356,19465197,7.0,pills_per_person,28.2,NY,Northeast,Middle Atlantic
+NY,2012,525145149,New York,1530,19570261,7.8,death_per_1m,78.2,NY,Northeast,Middle Atlantic
+NY,2012,525145149,New York,1530,19570261,7.8,pills_per_person,26.8,NY,Northeast,Middle Atlantic
+NY,2013,481371481,New York,1681,19651127,8.6,death_per_1m,85.5,NY,Northeast,Middle Atlantic
+NY,2013,481371481,New York,1681,19651127,8.6,pills_per_person,24.5,NY,Northeast,Middle Atlantic
+NY,2014,456825676,New York,1739,19746227,8.8,death_per_1m,88.1,NY,Northeast,Middle Atlantic
+NY,2014,456825676,New York,1739,19746227,8.8,pills_per_person,23.1,NY,Northeast,Middle Atlantic
+OH,2006,365495863,Ohio,634,11481213,5.5,death_per_1m,55.2,OH,Midwest,East North Central
+OH,2006,365495863,Ohio,634,11481213,5.5,pills_per_person,31.8,OH,Midwest,East North Central
+OH,2007,418488050,Ohio,705,11500468,6.1,death_per_1m,61.3,OH,Midwest,East North Central
+OH,2007,418488050,Ohio,705,11500468,6.1,pills_per_person,36.4,OH,Midwest,East North Central
+OH,2008,460686245,Ohio,814,11515391,7.1,death_per_1m,70.7,OH,Midwest,East North Central
+OH,2008,460686245,Ohio,814,11515391,7.1,pills_per_person,40,OH,Midwest,East North Central
+OH,2009,503525455,Ohio,664,11528896,5.8,death_per_1m,57.6,OH,Midwest,East North Central
+OH,2009,503525455,Ohio,664,11528896,5.8,pills_per_person,43.7,OH,Midwest,East North Central
+OH,2010,526624034,Ohio,1124,11536504,9.7,death_per_1m,97.4,OH,Midwest,East North Central
+OH,2010,526624034,Ohio,1124,11536504,9.7,pills_per_person,45.6,OH,Midwest,East North Central
+OH,2011,548371015,Ohio,1272,11544951,11.0,death_per_1m,110.2,OH,Midwest,East North Central
+OH,2011,548371015,Ohio,1272,11544951,11.0,pills_per_person,47.5,OH,Midwest,East North Central
+OH,2012,533504635.5,Ohio,1355,11544225,11.7,death_per_1m,117.4,OH,Midwest,East North Central
+OH,2012,533504635.5,Ohio,1355,11544225,11.7,pills_per_person,46.2,OH,Midwest,East North Central
+OH,2013,508964224,Ohio,1630,11570808,14.1,death_per_1m,140.9,OH,Midwest,East North Central
+OH,2013,508964224,Ohio,1630,11570808,14.1,pills_per_person,44,OH,Midwest,East North Central
+OH,2014,497231235,Ohio,2106,11594163,18.2,death_per_1m,181.6,OH,Midwest,East North Central
+OH,2014,497231235,Ohio,2106,11594163,18.2,pills_per_person,42.9,OH,Midwest,East North Central
+OK,2006,143326298.3,Oklahoma,383,3594090,10.7,death_per_1m,106.6,OK,South,West South Central
+OK,2006,143326298.3,Oklahoma,383,3594090,10.7,pills_per_person,39.9,OK,South,West South Central
+OK,2007,166339335,Oklahoma,492,3634349,13.5,death_per_1m,135.4,OK,South,West South Central
+OK,2007,166339335,Oklahoma,492,3634349,13.5,pills_per_person,45.8,OK,South,West South Central
+OK,2008,184382127,Oklahoma,410,3668976,11.2,death_per_1m,111.7,OK,South,West South Central
+OK,2008,184382127,Oklahoma,410,3668976,11.2,pills_per_person,50.3,OK,South,West South Central
+OK,2009,203143141,Oklahoma,568,3717572,15.3,death_per_1m,152.8,OK,South,West South Central
+OK,2009,203143141,Oklahoma,568,3717572,15.3,pills_per_person,54.6,OK,South,West South Central
+OK,2010,218417699,Oklahoma,510,3751351,13.6,death_per_1m,136,OK,South,West South Central
+OK,2010,218417699,Oklahoma,510,3751351,13.6,pills_per_person,58.2,OK,South,West South Central
+OK,2011,239270442.8,Oklahoma,483,3791508,12.7,death_per_1m,127.4,OK,South,West South Central
+OK,2011,239270442.8,Oklahoma,483,3791508,12.7,pills_per_person,63.1,OK,South,West South Central
+OK,2012,246572758,Oklahoma,531,3814820,13.9,death_per_1m,139.2,OK,South,West South Central
+OK,2012,246572758,Oklahoma,531,3814820,13.9,pills_per_person,64.6,OK,South,West South Central
+OK,2013,243219800,Oklahoma,511,3850568,13.3,death_per_1m,132.7,OK,South,West South Central
+OK,2013,243219800,Oklahoma,511,3850568,13.3,pills_per_person,63.2,OK,South,West South Central
+OK,2014,237501570,Oklahoma,502,3878051,12.9,death_per_1m,129.4,OK,South,West South Central
+OK,2014,237501570,Oklahoma,502,3878051,12.9,pills_per_person,61.2,OK,South,West South Central
+OR,2006,144640559,Oregon,359,3670883,9.8,death_per_1m,97.8,OR,West,Pacific
+OR,2006,144640559,Oregon,359,3670883,9.8,pills_per_person,39.4,OR,West,Pacific
+OR,2007,161869199,Oregon,358,3722417,9.6,death_per_1m,96.2,OR,West,Pacific
+OR,2007,161869199,Oregon,358,3722417,9.6,pills_per_person,43.5,OR,West,Pacific
+OR,2008,177505658,Oregon,342,3768748,9.1,death_per_1m,90.7,OR,West,Pacific
+OR,2008,177505658,Oregon,342,3768748,9.1,pills_per_person,47.1,OR,West,Pacific
+OR,2009,184251281,Oregon,368,3808600,9.7,death_per_1m,96.6,OR,West,Pacific
+OR,2009,184251281,Oregon,368,3808600,9.7,pills_per_person,48.4,OR,West,Pacific
+OR,2010,202468835,Oregon,332,3831074,8.7,death_per_1m,86.7,OR,West,Pacific
+OR,2010,202468835,Oregon,332,3831074,8.7,pills_per_person,52.8,OR,West,Pacific
+OR,2011,212348430,Oregon,392,3871859,10.1,death_per_1m,101.2,OR,West,Pacific
+OR,2011,212348430,Oregon,392,3871859,10.1,pills_per_person,54.8,OR,West,Pacific
+OR,2012,208436416,Oregon,361,3899353,9.3,death_per_1m,92.6,OR,West,Pacific
+OR,2012,208436416,Oregon,361,3899353,9.3,pills_per_person,53.5,OR,West,Pacific
+OR,2013,199141279,Oregon,301,3930065,7.7,death_per_1m,76.6,OR,West,Pacific
+OR,2013,199141279,Oregon,301,3930065,7.7,pills_per_person,50.7,OR,West,Pacific
+OR,2014,195667884.5,Oregon,340,3970239,8.6,death_per_1m,85.6,OR,West,Pacific
+OR,2014,195667884.5,Oregon,340,3970239,8.6,pills_per_person,49.3,OR,West,Pacific
+PA,2006,327502821.5,Pennsylvania,418,12510809,3.3,death_per_1m,33.4,PA,Northeast,Middle Atlantic
+PA,2006,327502821.5,Pennsylvania,418,12510809,3.3,pills_per_person,26.2,PA,Northeast,Middle Atlantic
+PA,2007,375516002,Pennsylvania,492,12563937,3.9,death_per_1m,39.2,PA,Northeast,Middle Atlantic
+PA,2007,375516002,Pennsylvania,492,12563937,3.9,pills_per_person,29.9,PA,Northeast,Middle Atlantic
+PA,2008,414896527,Pennsylvania,611,12612285,4.8,death_per_1m,48.4,PA,Northeast,Middle Atlantic
+PA,2008,414896527,Pennsylvania,611,12612285,4.8,pills_per_person,32.9,PA,Northeast,Middle Atlantic
+PA,2009,450008460.9,Pennsylvania,637,12666858,5.0,death_per_1m,50.3,PA,Northeast,Middle Atlantic
+PA,2009,450008460.9,Pennsylvania,637,12666858,5.0,pills_per_person,35.5,PA,Northeast,Middle Atlantic
+PA,2010,474594706.3,Pennsylvania,629,12702379,5.0,death_per_1m,49.5,PA,Northeast,Middle Atlantic
+PA,2010,474594706.3,Pennsylvania,629,12702379,5.0,pills_per_person,37.4,PA,Northeast,Middle Atlantic
+PA,2011,517646796.92,Pennsylvania,752,12742886,5.9,death_per_1m,59,PA,Northeast,Middle Atlantic
+PA,2011,517646796.92,Pennsylvania,752,12742886,5.9,pills_per_person,40.6,PA,Northeast,Middle Atlantic
+PA,2012,524785026,Pennsylvania,827,12763536,6.5,death_per_1m,64.8,PA,Northeast,Middle Atlantic
+PA,2012,524785026,Pennsylvania,827,12763536,6.5,pills_per_person,41.1,PA,Northeast,Middle Atlantic
+PA,2013,506561210,Pennsylvania,958,12773801,7.5,death_per_1m,75,PA,Northeast,Middle Atlantic
+PA,2013,506561210,Pennsylvania,958,12773801,7.5,pills_per_person,39.7,PA,Northeast,Middle Atlantic
+PA,2014,498126173,Pennsylvania,1092,12787209,8.5,death_per_1m,85.4,PA,Northeast,Middle Atlantic
+PA,2014,498126173,Pennsylvania,1092,12787209,8.5,pills_per_person,39,PA,Northeast,Middle Atlantic
+RI,2006,28837835,Rhode Island,130,1063096,12.2,death_per_1m,122.3,RI,Northeast,New England
+RI,2006,28837835,Rhode Island,130,1063096,12.2,pills_per_person,27.1,RI,Northeast,New England
+RI,2007,33936090,Rhode Island,87,1057315,8.2,death_per_1m,82.3,RI,Northeast,New England
+RI,2007,33936090,Rhode Island,87,1057315,8.2,pills_per_person,32.1,RI,Northeast,New England
+RI,2008,35392610,Rhode Island,133,1055003,12.6,death_per_1m,126.1,RI,Northeast,New England
+RI,2008,35392610,Rhode Island,133,1055003,12.6,pills_per_person,33.5,RI,Northeast,New England
+RI,2009,37253320,Rhode Island,115,1053646,10.9,death_per_1m,109.1,RI,Northeast,New England
+RI,2009,37253320,Rhode Island,115,1053646,10.9,pills_per_person,35.4,RI,Northeast,New England
+RI,2010,37988950,Rhode Island,111,1052567,10.5,death_per_1m,105.5,RI,Northeast,New England
+RI,2010,37988950,Rhode Island,111,1052567,10.5,pills_per_person,36.1,RI,Northeast,New England
+RI,2011,41259620,Rhode Island,142,1051302,13.5,death_per_1m,135.1,RI,Northeast,New England
+RI,2011,41259620,Rhode Island,142,1051302,13.5,pills_per_person,39.2,RI,Northeast,New England
+RI,2012,40408610,Rhode Island,140,1050292,13.3,death_per_1m,133.3,RI,Northeast,New England
+RI,2012,40408610,Rhode Island,140,1050292,13.3,pills_per_person,38.5,RI,Northeast,New England
+RI,2013,36148950,Rhode Island,190,1051511,18.1,death_per_1m,180.7,RI,Northeast,New England
+RI,2013,36148950,Rhode Island,190,1051511,18.1,pills_per_person,34.4,RI,Northeast,New England
+RI,2014,32902640,Rhode Island,205,1055173,19.4,death_per_1m,194.3,RI,Northeast,New England
+RI,2014,32902640,Rhode Island,205,1055173,19.4,pills_per_person,31.2,RI,Northeast,New England
+SC,2006,134069675,South Carolina,214,4357847,4.9,death_per_1m,49.1,SC,South,South Atlantic
+SC,2006,134069675,South Carolina,214,4357847,4.9,pills_per_person,30.8,SC,South,South Atlantic
+SC,2007,153073548,South Carolina,199,4444110,4.5,death_per_1m,44.8,SC,South,South Atlantic
+SC,2007,153073548,South Carolina,199,4444110,4.5,pills_per_person,34.4,SC,South,South Atlantic
+SC,2008,168628845,South Carolina,218,4528996,4.8,death_per_1m,48.1,SC,South,South Atlantic
+SC,2008,168628845,South Carolina,218,4528996,4.8,pills_per_person,37.2,SC,South,South Atlantic
+SC,2009,189750048.75,South Carolina,238,4589872,5.2,death_per_1m,51.9,SC,South,South Atlantic
+SC,2009,189750048.75,South Carolina,238,4589872,5.2,pills_per_person,41.3,SC,South,South Atlantic
+SC,2010,206539211,South Carolina,271,4625364,5.9,death_per_1m,58.6,SC,South,South Atlantic
+SC,2010,206539211,South Carolina,271,4625364,5.9,pills_per_person,44.7,SC,South,South Atlantic
+SC,2011,228668183,South Carolina,243,4679230,5.2,death_per_1m,51.9,SC,South,South Atlantic
+SC,2011,228668183,South Carolina,243,4679230,5.2,pills_per_person,48.9,SC,South,South Atlantic
+SC,2012,238253016.5,South Carolina,237,4723723,5.0,death_per_1m,50.2,SC,South,South Atlantic
+SC,2012,238253016.5,South Carolina,237,4723723,5.0,pills_per_person,50.4,SC,South,South Atlantic
+SC,2013,235209974,South Carolina,247,4774839,5.2,death_per_1m,51.7,SC,South,South Atlantic
+SC,2013,235209974,South Carolina,247,4774839,5.2,pills_per_person,49.3,SC,South,South Atlantic
+SC,2014,231622880,South Carolina,515,4832482,10.7,death_per_1m,106.6,SC,South,South Atlantic
+SC,2014,231622880,South Carolina,515,4832482,10.7,pills_per_person,47.9,SC,South,South Atlantic
+SD,2006,10842570,South Dakota,23,783033,2.9,death_per_1m,29.4,SD,Midwest,West North Central
+SD,2006,10842570,South Dakota,23,783033,2.9,pills_per_person,13.8,SD,Midwest,West North Central
+SD,2007,12959154,South Dakota,20,791623,2.5,death_per_1m,25.3,SD,Midwest,West North Central
+SD,2007,12959154,South Dakota,20,791623,2.5,pills_per_person,16.4,SD,Midwest,West North Central
+SD,2008,14693670,South Dakota,31,799124,3.9,death_per_1m,38.8,SD,Midwest,West North Central
+SD,2008,14693670,South Dakota,31,799124,3.9,pills_per_person,18.4,SD,Midwest,West North Central
+SD,2009,16602500,South Dakota,35,807067,4.3,death_per_1m,43.4,SD,Midwest,West North Central
+SD,2009,16602500,South Dakota,35,807067,4.3,pills_per_person,20.6,SD,Midwest,West North Central
+SD,2010,18248325,South Dakota,32,814180,3.9,death_per_1m,39.3,SD,Midwest,West North Central
+SD,2010,18248325,South Dakota,32,814180,3.9,pills_per_person,22.4,SD,Midwest,West North Central
+SD,2011,20674588,South Dakota,34,824082,4.1,death_per_1m,41.3,SD,Midwest,West North Central
+SD,2011,20674588,South Dakota,34,824082,4.1,pills_per_person,25.1,SD,Midwest,West North Central
+SD,2012,21405550,South Dakota,24,833354,2.9,death_per_1m,28.8,SD,Midwest,West North Central
+SD,2012,21405550,South Dakota,24,833354,2.9,pills_per_person,25.7,SD,Midwest,West North Central
+SD,2013,22035394,South Dakota,34,844877,4.0,death_per_1m,40.2,SD,Midwest,West North Central
+SD,2013,22035394,South Dakota,34,844877,4.0,pills_per_person,26.1,SD,Midwest,West North Central
+SD,2014,22789620,South Dakota,33,853175,3.9,death_per_1m,38.7,SD,Midwest,West North Central
+SD,2014,22789620,South Dakota,33,853175,3.9,pills_per_person,26.7,SD,Midwest,West North Central
+TN,2006,267183722,Tennessee,470,6088766,7.7,death_per_1m,77.2,TN,South,East South Central
+TN,2006,267183722,Tennessee,470,6088766,7.7,pills_per_person,43.9,TN,South,East South Central
+TN,2007,298918284,Tennessee,479,6175727,7.8,death_per_1m,77.6,TN,South,East South Central
+TN,2007,298918284,Tennessee,479,6175727,7.8,pills_per_person,48.4,TN,South,East South Central
+TN,2008,327894396.5,Tennessee,480,6247411,7.7,death_per_1m,76.8,TN,South,East South Central
+TN,2008,327894396.5,Tennessee,480,6247411,7.7,pills_per_person,52.5,TN,South,East South Central
+TN,2009,366240336.375,Tennessee,535,6306019,8.5,death_per_1m,84.8,TN,South,East South Central
+TN,2009,366240336.375,Tennessee,535,6306019,8.5,pills_per_person,58.1,TN,South,East South Central
+TN,2010,400196697.5,Tennessee,633,6346105,10.0,death_per_1m,99.7,TN,South,East South Central
+TN,2010,400196697.5,Tennessee,633,6346105,10.0,pills_per_person,63.1,TN,South,East South Central
+TN,2011,433377075.4,Tennessee,633,6403353,9.9,death_per_1m,98.9,TN,South,East South Central
+TN,2011,433377075.4,Tennessee,633,6403353,9.9,pills_per_person,67.7,TN,South,East South Central
+TN,2012,423886914,Tennessee,723,6456243,11.2,death_per_1m,112,TN,South,East South Central
+TN,2012,423886914,Tennessee,723,6456243,11.2,pills_per_person,65.7,TN,South,East South Central
+TN,2013,400638035,Tennessee,767,6495978,11.8,death_per_1m,118.1,TN,South,East South Central
+TN,2013,400638035,Tennessee,767,6495978,11.8,pills_per_person,61.7,TN,South,East South Central
+TN,2014,394763138,Tennessee,863,6549352,13.2,death_per_1m,131.8,TN,South,East South Central
+TN,2014,394763138,Tennessee,863,6549352,13.2,pills_per_person,60.3,TN,South,East South Central
+TX,2006,601382181.5,Texas,1067,23359580,4.6,death_per_1m,45.7,TX,South,West South Central
+TX,2006,601382181.5,Texas,1067,23359580,4.6,pills_per_person,25.7,TX,South,West South Central
+TX,2007,729058959,Texas,1021,23831983,4.3,death_per_1m,42.8,TX,South,West South Central
+TX,2007,729058959,Texas,1021,23831983,4.3,pills_per_person,30.6,TX,South,West South Central
+TX,2008,725102605,Texas,944,24309039,3.9,death_per_1m,38.8,TX,South,West South Central
+TX,2008,725102605,Texas,944,24309039,3.9,pills_per_person,29.8,TX,South,West South Central
+TX,2009,781719666,Texas,1151,24801761,4.6,death_per_1m,46.4,TX,South,West South Central
+TX,2009,781719666,Texas,1151,24801761,4.6,pills_per_person,31.5,TX,South,West South Central
+TX,2010,827880197,Texas,1123,25145561,4.5,death_per_1m,44.7,TX,South,West South Central
+TX,2010,827880197,Texas,1123,25145561,4.5,pills_per_person,32.9,TX,South,West South Central
+TX,2011,890991122,Texas,1178,25674681,4.6,death_per_1m,45.9,TX,South,West South Central
+TX,2011,890991122,Texas,1178,25674681,4.6,pills_per_person,34.7,TX,South,West South Central
+TX,2012,869785299,Texas,1131,26059203,4.3,death_per_1m,43.4,TX,South,West South Central
+TX,2012,869785299,Texas,1131,26059203,4.3,pills_per_person,33.4,TX,South,West South Central
+TX,2013,860101646.5,Texas,1053,26448193,4.0,death_per_1m,39.8,TX,South,West South Central
+TX,2013,860101646.5,Texas,1053,26448193,4.0,pills_per_person,32.5,TX,South,West South Central
+TX,2014,796015859,Texas,1151,26956958,4.3,death_per_1m,42.7,TX,South,West South Central
+TX,2014,796015859,Texas,1151,26956958,4.3,pills_per_person,29.5,TX,South,West South Central
+UT,2006,83937782,Utah,331,2525507,13.1,death_per_1m,131.1,UT,West,Mountain
+UT,2006,83937782,Utah,331,2525507,13.1,pills_per_person,33.2,UT,West,Mountain
+UT,2007,88515246,Utah,359,2597746,13.8,death_per_1m,138.2,UT,West,Mountain
+UT,2007,88515246,Utah,359,2597746,13.8,pills_per_person,34.1,UT,West,Mountain
+UT,2008,92780904,Utah,350,2663029,13.1,death_per_1m,131.4,UT,West,Mountain
+UT,2008,92780904,Utah,350,2663029,13.1,pills_per_person,34.8,UT,West,Mountain
+UT,2009,98301849,Utah,370,2723421,13.6,death_per_1m,135.9,UT,West,Mountain
+UT,2009,98301849,Utah,370,2723421,13.6,pills_per_person,36.1,UT,West,Mountain
+UT,2010,106044274,Utah,336,2763885,12.2,death_per_1m,121.6,UT,West,Mountain
+UT,2010,106044274,Utah,336,2763885,12.2,pills_per_person,38.4,UT,West,Mountain
+UT,2011,109717924,Utah,381,2817222,13.5,death_per_1m,135.2,UT,West,Mountain
+UT,2011,109717924,Utah,381,2817222,13.5,pills_per_person,38.9,UT,West,Mountain
+UT,2012,113230831,Utah,422,2855287,14.8,death_per_1m,147.8,UT,West,Mountain
+UT,2012,113230831,Utah,422,2855287,14.8,pills_per_person,39.7,UT,West,Mountain
+UT,2013,112810975,Utah,432,2900872,14.9,death_per_1m,148.9,UT,West,Mountain
+UT,2013,112810975,Utah,432,2900872,14.9,pills_per_person,38.9,UT,West,Mountain
+UT,2014,113419468,Utah,455,2942902,15.5,death_per_1m,154.6,UT,West,Mountain
+UT,2014,113419468,Utah,455,2942902,15.5,pills_per_person,38.5,UT,West,Mountain
+VA,2006,174900507,Virginia,408,7673725,5.3,death_per_1m,53.2,VA,South,South Atlantic
+VA,2006,174900507,Virginia,408,7673725,5.3,pills_per_person,22.8,VA,South,South Atlantic
+VA,2007,195293684,Virginia,502,7751000,6.5,death_per_1m,64.8,VA,South,South Atlantic
+VA,2007,195293684,Virginia,502,7751000,6.5,pills_per_person,25.2,VA,South,South Atlantic
+VA,2008,209333295,Virginia,490,7833496,6.3,death_per_1m,62.6,VA,South,South Atlantic
+VA,2008,209333295,Virginia,490,7833496,6.3,pills_per_person,26.7,VA,South,South Atlantic
+VA,2009,229711041.00300002,Virginia,477,7925937,6.0,death_per_1m,60.2,VA,South,South Atlantic
+VA,2009,229711041.00300002,Virginia,477,7925937,6.0,pills_per_person,29,VA,South,South Atlantic
+VA,2010,244085111.0004,Virginia,389,8001024,4.9,death_per_1m,48.6,VA,South,South Atlantic
+VA,2010,244085111.0004,Virginia,389,8001024,4.9,pills_per_person,30.5,VA,South,South Atlantic
+VA,2011,268892725,Virginia,575,8096604,7.1,death_per_1m,71,VA,South,South Atlantic
+VA,2011,268892725,Virginia,575,8096604,7.1,pills_per_person,33.2,VA,South,South Atlantic
+VA,2012,273751312.5,Virginia,533,8185867,6.5,death_per_1m,65.1,VA,South,South Atlantic
+VA,2012,273751312.5,Virginia,533,8185867,6.5,pills_per_person,33.4,VA,South,South Atlantic
+VA,2013,265469897,Virginia,640,8260405,7.7,death_per_1m,77.5,VA,South,South Atlantic
+VA,2013,265469897,Virginia,640,8260405,7.7,pills_per_person,32.1,VA,South,South Atlantic
+VA,2014,258434454,Virginia,758,8326289,9.1,death_per_1m,91,VA,South,South Atlantic
+VA,2014,258434454,Virginia,758,8326289,9.1,pills_per_person,31,VA,South,South Atlantic
+VT,2006,14677240,Vermont,57,622892,9.2,death_per_1m,91.5,VT,Northeast,New England
+VT,2006,14677240,Vermont,57,622892,9.2,pills_per_person,23.6,VT,Northeast,New England
+VT,2007,16446690,Vermont,52,623481,8.3,death_per_1m,83.4,VT,Northeast,New England
+VT,2007,16446690,Vermont,52,623481,8.3,pills_per_person,26.4,VT,Northeast,New England
+VT,2008,17046800,Vermont,57,624151,9.1,death_per_1m,91.3,VT,Northeast,New England
+VT,2008,17046800,Vermont,57,624151,9.1,pills_per_person,27.3,VT,Northeast,New England
+VT,2009,20698965,Vermont,39,624817,6.2,death_per_1m,62.4,VT,Northeast,New England
+VT,2009,20698965,Vermont,39,624817,6.2,pills_per_person,33.1,VT,Northeast,New England
+VT,2010,17989208,Vermont,43,625741,6.9,death_per_1m,68.7,VT,Northeast,New England
+VT,2010,17989208,Vermont,43,625741,6.9,pills_per_person,28.7,VT,Northeast,New England
+VT,2011,18340630,Vermont,55,626431,8.8,death_per_1m,87.8,VT,Northeast,New England
+VT,2011,18340630,Vermont,55,626431,8.8,pills_per_person,29.3,VT,Northeast,New England
+VT,2012,17849170,Vermont,55,626011,8.8,death_per_1m,87.9,VT,Northeast,New England
+VT,2012,17849170,Vermont,55,626011,8.8,pills_per_person,28.5,VT,Northeast,New England
+VT,2013,17471310,Vermont,70,626630,11.2,death_per_1m,111.7,VT,Northeast,New England
+VT,2013,17471310,Vermont,70,626630,11.2,pills_per_person,27.9,VT,Northeast,New England
+VT,2014,16516670,Vermont,64,626562,10.2,death_per_1m,102.1,VT,Northeast,New England
+VT,2014,16516670,Vermont,64,626562,10.2,pills_per_person,26.4,VT,Northeast,New England
+WA,2006,219155507,Washington,661,6370753,10.4,death_per_1m,103.8,WA,West,Pacific
+WA,2006,219155507,Washington,661,6370753,10.4,pills_per_person,34.4,WA,West,Pacific
+WA,2007,239662790,Washington,651,6461587,10.1,death_per_1m,100.7,WA,West,Pacific
+WA,2007,239662790,Washington,651,6461587,10.1,pills_per_person,37.1,WA,West,Pacific
+WA,2008,257490030.5,Washington,690,6562231,10.5,death_per_1m,105.1,WA,West,Pacific
+WA,2008,257490030.5,Washington,690,6562231,10.5,pills_per_person,39.2,WA,West,Pacific
+WA,2009,264291166,Washington,708,6667426,10.6,death_per_1m,106.2,WA,West,Pacific
+WA,2009,264291166,Washington,708,6667426,10.6,pills_per_person,39.6,WA,West,Pacific
+WA,2010,276825185,Washington,628,6724540,9.3,death_per_1m,93.4,WA,West,Pacific
+WA,2010,276825185,Washington,628,6724540,9.3,pills_per_person,41.2,WA,West,Pacific
+WA,2011,282145300,Washington,697,6830038,10.2,death_per_1m,102,WA,West,Pacific
+WA,2011,282145300,Washington,697,6830038,10.2,pills_per_person,41.3,WA,West,Pacific
+WA,2012,277177691,Washington,695,6897012,10.1,death_per_1m,100.8,WA,West,Pacific
+WA,2012,277177691,Washington,695,6897012,10.1,pills_per_person,40.2,WA,West,Pacific
+WA,2013,270559452,Washington,640,6971406,9.2,death_per_1m,91.8,WA,West,Pacific
+WA,2013,270559452,Washington,640,6971406,9.2,pills_per_person,38.8,WA,West,Pacific
+WA,2014,273375198,Washington,673,7061530,9.5,death_per_1m,95.3,WA,West,Pacific
+WA,2014,273375198,Washington,673,7061530,9.5,pills_per_person,38.7,WA,West,Pacific
+WI,2006,142086604,Wisconsin,334,5577655,6.0,death_per_1m,59.9,WI,Midwest,East North Central
+WI,2006,142086604,Wisconsin,334,5577655,6.0,pills_per_person,25.5,WI,Midwest,East North Central
+WI,2007,157057185,Wisconsin,371,5610775,6.6,death_per_1m,66.1,WI,Midwest,East North Central
+WI,2007,157057185,Wisconsin,371,5610775,6.6,pills_per_person,28,WI,Midwest,East North Central
+WI,2008,171707463,Wisconsin,369,5640996,6.5,death_per_1m,65.4,WI,Midwest,East North Central
+WI,2008,171707463,Wisconsin,369,5640996,6.5,pills_per_person,30.4,WI,Midwest,East North Central
+WI,2009,183183807,Wisconsin,397,5669264,7.0,death_per_1m,70,WI,Midwest,East North Central
+WI,2009,183183807,Wisconsin,397,5669264,7.0,pills_per_person,32.3,WI,Midwest,East North Central
+WI,2010,197821736,Wisconsin,415,5686986,7.3,death_per_1m,73,WI,Midwest,East North Central
+WI,2010,197821736,Wisconsin,415,5686986,7.3,pills_per_person,34.8,WI,Midwest,East North Central
+WI,2011,211744908,Wisconsin,473,5711767,8.3,death_per_1m,82.8,WI,Midwest,East North Central
+WI,2011,211744908,Wisconsin,473,5711767,8.3,pills_per_person,37.1,WI,Midwest,East North Central
+WI,2012,215969740,Wisconsin,483,5726398,8.4,death_per_1m,84.3,WI,Midwest,East North Central
+WI,2012,215969740,Wisconsin,483,5726398,8.4,pills_per_person,37.7,WI,Midwest,East North Central
+WI,2013,206856590,Wisconsin,599,5742713,10.4,death_per_1m,104.3,WI,Midwest,East North Central
+WI,2013,206856590,Wisconsin,599,5742713,10.4,pills_per_person,36,WI,Midwest,East North Central
+WI,2014,205444240,Wisconsin,627,5757564,10.9,death_per_1m,108.9,WI,Midwest,East North Central
+WI,2014,205444240,Wisconsin,627,5757564,10.9,pills_per_person,35.7,WI,Midwest,East North Central
+WV,2006,94315405,West Virginia,285,1827912,15.6,death_per_1m,155.9,WV,South,South Atlantic
+WV,2006,94315405,West Virginia,285,1827912,15.6,pills_per_person,51.6,WV,South,South Atlantic
+WV,2007,109992060,West Virginia,332,1834052,18.1,death_per_1m,181,WV,South,South Atlantic
+WV,2007,109992060,West Virginia,332,1834052,18.1,pills_per_person,60,WV,South,South Atlantic
+WV,2008,123316460,West Virginia,371,1840310,20.2,death_per_1m,201.6,WV,South,South Atlantic
+WV,2008,123316460,West Virginia,371,1840310,20.2,pills_per_person,67,WV,South,South Atlantic
+WV,2009,129979309.5,West Virginia,184,1847775,10.0,death_per_1m,99.6,WV,South,South Atlantic
+WV,2009,129979309.5,West Virginia,184,1847775,10.0,pills_per_person,70.3,WV,South,South Atlantic
+WV,2010,126309614,West Virginia,451,1852994,24.3,death_per_1m,243.4,WV,South,South Atlantic
+WV,2010,126309614,West Virginia,451,1852994,24.3,pills_per_person,68.2,WV,South,South Atlantic
+WV,2011,132920580,West Virginia,550,1855364,29.6,death_per_1m,296.4,WV,South,South Atlantic
+WV,2011,132920580,West Virginia,550,1855364,29.6,pills_per_person,71.6,WV,South,South Atlantic
+WV,2012,132400480,West Virginia,468,1855413,25.2,death_per_1m,252.2,WV,South,South Atlantic
+WV,2012,132400480,West Virginia,468,1855413,25.2,pills_per_person,71.4,WV,South,South Atlantic
+WV,2013,126208230,West Virginia,490,1854304,26.4,death_per_1m,264.3,WV,South,South Atlantic
+WV,2013,126208230,West Virginia,490,1854304,26.4,pills_per_person,68.1,WV,South,South Atlantic
+WV,2014,120746760,West Virginia,554,1850326,29.9,death_per_1m,299.4,WV,South,South Atlantic
+WV,2014,120746760,West Virginia,554,1850326,29.9,pills_per_person,65.3,WV,South,South Atlantic
+WY,2006,14270975,Wyoming,14,522667,Unreliable,death_per_1m,26.8,WY,West,Mountain
+WY,2006,14270975,Wyoming,14,522667,Unreliable,pills_per_person,27.3,WY,West,Mountain
+WY,2007,15628980,Wyoming,25,534876,4.7,death_per_1m,46.7,WY,West,Mountain
+WY,2007,15628980,Wyoming,25,534876,4.7,pills_per_person,29.2,WY,West,Mountain
+WY,2008,15942500,Wyoming,40,546043,7.3,death_per_1m,73.3,WY,West,Mountain
+WY,2008,15942500,Wyoming,40,546043,7.3,pills_per_person,29.2,WY,West,Mountain
+WY,2009,16807606,Wyoming,32,559851,5.7,death_per_1m,57.2,WY,West,Mountain
+WY,2009,16807606,Wyoming,32,559851,5.7,pills_per_person,30,WY,West,Mountain
+WY,2010,18839835,Wyoming,47,563626,8.3,death_per_1m,83.4,WY,West,Mountain
+WY,2010,18839835,Wyoming,47,563626,8.3,pills_per_person,33.4,WY,West,Mountain
+WY,2011,19933270,Wyoming,43,568158,7.6,death_per_1m,75.7,WY,West,Mountain
+WY,2011,19933270,Wyoming,43,568158,7.6,pills_per_person,35.1,WY,West,Mountain
+WY,2012,21358920,Wyoming,45,576412,7.8,death_per_1m,78.1,WY,West,Mountain
+WY,2012,21358920,Wyoming,45,576412,7.8,pills_per_person,37.1,WY,West,Mountain
+WY,2013,21411260,Wyoming,48,582658,8.2,death_per_1m,82.4,WY,West,Mountain
+WY,2013,21411260,Wyoming,48,582658,8.2,pills_per_person,36.7,WY,West,Mountain
+WY,2014,21622010,Wyoming,54,584153,9.2,death_per_1m,92.4,WY,West,Mountain
+WY,2014,21622010,Wyoming,54,584153,9.2,pills_per_person,37,WY,West,Mountain
