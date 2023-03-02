@@ -1,7 +1,0 @@
-"0","annual_states <- states %>% "
-"0","  group_by(BUYER_STATE, year) %>% "
-"0","  summarize(pills=sum(DOSAGE_UNIT)) %>% "
-"0","  filter(!is.na(BUYER_STATE))"
-"2","Error in base::nchar(wide_chars$test, type = ""width"") : 
-  read failed on /Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library/cli/R/sysdata.rdb
-"

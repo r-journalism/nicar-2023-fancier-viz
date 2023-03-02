@@ -1,7 +1,0 @@
-"0","county_joined <- pharm_c %>% "
-"0","  full_join(county_cdc) %>% "
-"0","  select(-notes, -state_code, -year_code, -age_adjusted_rate)"
-"2","Joining with `by = join_by(year, countyfips)`"
-"0","county_joined %>% "
-"0","  head() %>% "
-"0","  kable()"

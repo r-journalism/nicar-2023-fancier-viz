@@ -1,6 +1,0 @@
-"0","pharm_c <- summarized_county_annual(key=""WaPo"") %>% "
-"0","  clean_names()"
-"0",""
-"0","pharm_c %>% "
-"0","  head() %>% "
-"0","  kable()"

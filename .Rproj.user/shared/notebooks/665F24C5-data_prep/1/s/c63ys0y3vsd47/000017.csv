@@ -1,8 +1,0 @@
-"0","county_joined <- pharm_c_combined %>% "
-"0","  full_join(county_cdc) %>% "
-"0","  select(-notes, -state_code, -crude_rate)"
-"2","Joining with `by = join_by(countyfips)`"
-"2","Warning: Each row in `x` is expected to match at most 1 row in `y`."
-"0","county_joined %>% "
-"0","  head() %>% "
-"0","  kable()"

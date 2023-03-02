@@ -1,8 +1,0 @@
-"0","#| warning: FALSE"
-"0","#| message: FALSE"
-"0",""
-"0","finalPlot <- ggdraw() +"
-"0","  draw_plot(map, 0, 0, 1, 1) +"
-"0","  draw_plot(legend, 0.82, .2, 0.2, 0.2)"
-"0",""
-"0","finalPlot"
